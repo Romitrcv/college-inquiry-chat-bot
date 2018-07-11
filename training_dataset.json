@@ -1,0 +1,2188 @@
+    "rasa_nlu_data": {
+        "common_examples": [
+        	{
+        "text": "hi please where to get brouchre close to Jharkhand",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 50, "entity": "States", "start": 41, "value": "Jharkhand"}
+        ]
+      },
+      {
+        "text": "pls inform admission office located at Haryana",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 46, "entity": "States", "start": 39, "value": "Haryana"}
+        ]
+      },
+      {
+        "text": "whatsup can you please detail of admission center nearby Bihar",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 62, "entity": "States", "start": 57, "value": "Bihar"}
+        ]
+      },
+	{
+        "text": "hey there details admission office in the area of Madhya Pradesh",
+        "intent": "findofficeByStates",
+        "entities": [
+          {
+            "end": 64,
+            "entity": "States",
+            "start": 50,
+            "value": "Madhya Pradesh"
+          }
+        ]
+      },
+      {
+        "text": "hello can you please where to get admission in Jharkhand",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 56, "entity": "States", "start": 47, "value": "Jharkhand"}
+        ]
+      },
+      {
+        "text": "hey please find within Uttaranchal",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 34, "entity": "States", "start": 23, "value": "Uttaranchal"}
+        ]
+      },
+      {
+        "text": "can you please tell me about admission office nearby Madhya Pradesh",
+        "intent": "findofficeByStates",
+        "entities": [
+          {
+            "end": 67,
+            "entity": "States",
+            "start": 53,
+            "value": "Madhya Pradesh"
+          }
+        ]
+      },
+      {
+        "text": "hello detail of close to Jharkhand",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 34, "entity": "States", "start": 25, "value": "Jharkhand"}
+        ]
+      },
+      {
+        "text": "hey there please find where to get admission within Bihar",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 57, "entity": "States", "start": 52, "value": "Bihar"}
+        ]
+      },
+     {
+        "text": "greetings search where to get brouchre within Uttar Pradesh",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 59, "entity": "States", "start": 46, "value": "Uttar Pradesh"}
+        ]
+      },
+      {
+        "text": "whatsup can you please find admission office close to Madhya Pradesh",
+        "intent": "findofficeByStates",
+        "entities": [
+          {
+            "end": 68,
+            "entity": "States",
+            "start": 54,
+            "value": "Madhya Pradesh"
+          }
+        ]
+      },
+      {
+        "text": "hello please in Haryana",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 23, "entity": "States", "start": 16, "value": "Haryana"}
+        ]
+      },
+      {
+        "text": "greetings can you please lookup where to get admission close to Jharkhand",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 73, "entity": "States", "start": 64, "value": "Jharkhand"}
+        ]
+      },
+      {
+        "text": "hey there please detail of where to get brouchre in Uttar Pradesh",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 65, "entity": "States", "start": 52, "value": "Uttar Pradesh"}
+        ]
+      },
+      {
+        "text": "hello pls about admission office nearby Bihar",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 45, "entity": "States", "start": 40, "value": "Bihar"}
+        ]
+      },      
+      {
+        "text": "hey pls search in the area of Jharkhand",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 39, "entity": "States", "start": 30, "value": "Jharkhand"}
+        ]
+      },
+      {
+        "text": "greetings can you please where to get brochure within Uttaranchal",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 65, "entity": "States", "start": 54, "value": "Uttaranchal"}
+        ]
+      },
+      {
+        "text": "hi tell me about admission center nearby Haryana",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 48, "entity": "States", "start": 41, "value": "Haryana"}
+        ]
+      },
+     {
+        "text": "hi please about admission center nearby Bihar",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 45, "entity": "States", "start": 40, "value": "Bihar"}
+        ]
+      },
+      {
+        "text": "hello inform where to get admission located at Jharkhand",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 56, "entity": "States", "start": 47, "value": "Jharkhand"}
+        ]
+      },
+      {
+        "text": "hey there can you please lookup where to get brochure in Rajasthan",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 66, "entity": "States", "start": 57, "value": "Rajasthan"}
+        ]
+      },
+      {
+        "text": "hey there can you please admission center in the area of Rajasthan",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 66, "entity": "States", "start": 57, "value": "Rajasthan"}
+        ]
+      },
+      {
+        "text": "hey please search admission office located at Uttar Pradesh",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 59, "entity": "States", "start": 46, "value": "Uttar Pradesh"}
+        ]
+      },
+      {
+        "text": "hello inform where to get brochure in Bihar",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 43, "entity": "States", "start": 38, "value": "Bihar"}
+        ]
+      },
+     {
+        "text": "greetings please lookup admission center in Uttaranchal",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 55, "entity": "States", "start": 44, "value": "Uttaranchal"}
+        ]
+      },
+      {
+        "text": "hi close to Madhya Pradesh",
+        "intent": "findofficeByStates",
+        "entities": [
+          {
+            "end": 26,
+            "entity": "States",
+            "start": 12,
+            "value": "Madhya Pradesh"
+          }
+        ]
+      },
+      {
+        "text": "hello can you please about where to get admission in city Bihar",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 63, "entity": "States", "start": 58, "value": "Bihar"}
+        ]
+      },
+     {
+        "text": "whatsup find located at Haryana",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 31, "entity": "States", "start": 24, "value": "Haryana"}
+        ]
+      },
+      {
+        "text": "hello please lookup admission center close to Uttar Pradesh",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 59, "entity": "States", "start": 46, "value": "Uttar Pradesh"}
+        ]
+      },
+      {
+        "text": "hi can you please about where to get admission in city Bihar",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 60, "entity": "States", "start": 55, "value": "Bihar"}
+        ]
+      },
+       {
+        "text": "hey there pls find admission center in Bihar",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 44, "entity": "States", "start": 39, "value": "Bihar"}
+        ]
+      },
+      {
+        "text": "hi please in the area of Uttar Pradesh",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 38, "entity": "States", "start": 25, "value": "Uttar Pradesh"}
+        ]
+      },
+      {
+        "text": "hey search admission office within Jharkhand",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 44, "entity": "States", "start": 35, "value": "Jharkhand"}
+        ]
+      },
+      {
+        "text": "hey there pls find admission center in Bihar",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 44, "entity": "States", "start": 39, "value": "Bihar"}
+        ]
+      },
+      {
+        "text": "hi please in the area of Uttar Pradesh",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 38, "entity": "States", "start": 25, "value": "Uttar Pradesh"}
+        ]
+      },
+      {
+        "text": "hey search admission office within Jharkhand",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 44, "entity": "States", "start": 35, "value": "Jharkhand"}
+        ]
+      },
+      {
+        "text": "please lookup admission office located at Uttar Pradesh",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 55, "entity": "States", "start": 42, "value": "Uttar Pradesh"}
+        ]
+      },
+      {
+        "text": "hi pls detail of where to get admission in the area of Bihar",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 60, "entity": "States", "start": 55, "value": "Bihar"}
+        ]
+      },
+      {
+        "text": "hey search admission center in Jharkhand",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 40, "entity": "States", "start": 31, "value": "Jharkhand"}
+        ]
+      },
+     {
+        "text": "hey there detail of where to get brochure in Haryana",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 52, "entity": "States", "start": 45, "value": "Haryana"}
+        ]
+      },
+      {
+        "text": "hi pls inform admission office close to Rajasthan",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 49, "entity": "States", "start": 40, "value": "Rajasthan"}
+        ]
+      },
+      {
+        "text": "greetings can you please search in the area of Jharkhand",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 56, "entity": "States", "start": 47, "value": "Jharkhand"}
+        ]
+      },
+            {
+        "text": "greetings pls find close to Haryana",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 35, "entity": "States", "start": 28, "value": "Haryana"}
+        ]
+      },
+      {
+        "text": "hello please tell me about where to get admission in city Jharkhand",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 67, "entity": "States", "start": 58, "value": "Jharkhand"}
+        ]
+      },
+      {
+        "text": "whatsup can you please search where to get brochure located at Uttar Pradesh",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 76, "entity": "States", "start": 63, "value": "Uttar Pradesh"}
+        ]
+      },
+     {
+        "text": "whatsup pls lookup where to get admission center in Rajasthan",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 61, "entity": "States", "start": 52, "value": "Rajasthan"}
+        ]
+      },
+      {
+        "text": "about admission office in the area of Bihar",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 43, "entity": "States", "start": 38, "value": "Bihar"}
+        ]
+      },
+      {
+        "text": "hey there can you please detail of center where to get brochure nearby Haryana",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 78, "entity": "States", "start": 71, "value": "Haryana"}
+        ]
+      },
+            {
+        "text": "please search admission center close to Haryana",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 47, "entity": "States", "start": 40, "value": "Haryana"}
+        ]
+      },
+      {
+        "text": "hey there can you please lookup where to get brochure in city Uttaranchal",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 73, "entity": "States", "start": 62, "value": "Uttaranchal"}
+        ]
+      },
+      {
+        "text": "hey nearby Uttar Pradesh",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 24, "entity": "States", "start": 11, "value": "Uttar Pradesh"}
+        ]
+      },
+        {
+        "text": "hey detail of center where to get admission center in city Madhya Pradesh",
+        "intent": "findofficeByStates",
+        "entities": [
+          {
+            "end": 73,
+            "entity": "States",
+            "start": 59,
+            "value": "Madhya Pradesh"
+          }
+        ]
+      },
+      {
+        "text": "whatsup pls details located at Jharkhand",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 40, "entity": "States", "start": 31, "value": "Jharkhand"}
+        ]
+      },
+      {
+        "text": "hello please inform where to get brochure within Bihar",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 54, "entity": "States", "start": 49, "value": "Bihar"}
+        ]
+      },
+      {
+        "text": "hey detail of center where to get admission center in city Madhya Pradesh",
+        "intent": "findofficeByStates",
+        "entities": [
+          {
+            "end": 73,
+            "entity": "States",
+            "start": 59,
+            "value": "Madhya Pradesh"
+          }
+        ]
+      },
+      {
+        "text": "whatsup pls details located at Jharkhand",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 40, "entity": "States", "start": 31, "value": "Jharkhand"}
+        ]
+      },
+      {
+        "text": "hello please inform where to get brochure within Bihar",
+        "intent": "findofficeByStates",
+        "entities": [
+          {"end": 54, "entity": "States", "start": 49, "value": "Bihar"}
+        ]
+      },
+{
+
+        "text": "hello detail of admission office within Agra",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 44, "entity": "City", "start": 40, "value": "Agra"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "hi lookup admission center close to Dhanbad",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 43, "entity": "City", "start": 36, "value": "Dhanbad"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "tell me where to get admission in Bhopal",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 40, "entity": "City", "start": 34, "value": "Bhopal"}
+
+        ]
+
+      },
+
+{
+
+        "text": "hello detail of admission center in city Jhansi",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 47, "entity": "City", "start": 41, "value": "Jhansi"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "hey lookup admission office in the area of Kasganj",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 50, "entity": "City", "start": 43, "value": "Kasganj"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "find where to get brouchre close to Indore",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 42, "entity": "City", "start": 36, "value": "Indore"}
+
+        ]
+
+      },
+
+{
+
+        "text": "search where to get brouchre in city Agra",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 41, "entity": "City", "start": 37, "value": "Agra"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "hey admission center nearby Noida",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 33, "entity": "City", "start": 28, "value": "Noida"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "hi find in the area of Aligarh",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 30, "entity": "City", "start": 23, "value": "Aligarh"}
+
+        ]
+
+      },
+
+{
+
+        "text": "hey details admission center within Patna",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 41, "entity": "City", "start": 36, "value": "Patna"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "hi in city Jhansi",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 17, "entity": "City", "start": 11, "value": "Jhansi"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "whatsup lookup admission office in the area of Moradabad",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 56, "entity": "City", "start": 47, "value": "Moradabad"}
+
+        ]
+
+      },
+
+{
+
+        "text": "greetings lookup admission center in city Allahabad",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 51, "entity": "City", "start": 42, "value": "Allahabad"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "whatsup about where to get admission within Moradabad",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 53, "entity": "City", "start": 44, "value": "Moradabad"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "details in the area of Bhopal",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 29, "entity": "City", "start": 23, "value": "Bhopal"}
+
+        ]
+
+      },
+
+{
+
+        "text": "hey detail of where to get brouchre located at Orai",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 51, "entity": "City", "start": 47, "value": "Orai"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "hey there lookup admission center in the area of Shivpuri",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 57, "entity": "City", "start": 49, "value": "Shivpuri"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "hi tell me where to get admission in Kasganj",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 44, "entity": "City", "start": 37, "value": "Kasganj"}
+
+        ]
+
+      },
+
+{
+
+        "text": "whatsup lookup where to get brouchre close to Firozabad",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 55, "entity": "City", "start": 46, "value": "Firozabad"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "details admission office nearby Etah",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 36, "entity": "City", "start": 32, "value": "Etah"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "hello where to get admission in the area of Lucknow",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 51, "entity": "City", "start": 44, "value": "Lucknow"}
+
+        ]
+
+      },
+
+{
+
+        "text": "hi find in the area of Firozabad",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 32, "entity": "City", "start": 23, "value": "Firozabad"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "hey inform admission center nearby Noida",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 40, "entity": "City", "start": 35, "value": "Noida"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "hey there lookup where to get brouchre located at Gwalior",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 57, "entity": "City", "start": 50, "value": "Gwalior"}
+
+        ]
+
+      },
+
+{
+
+        "text": "whatsup lookup where to get brouchre within Orai",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 48, "entity": "City", "start": 44, "value": "Orai"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "hey there inform admission center close to Kasganj",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 50, "entity": "City", "start": 43, "value": "Kasganj"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "greetings details in the area of Varanasi",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 41, "entity": "City", "start": 33, "value": "Varanasi"}
+
+        ]
+
+      },
+
+{
+
+        "text": "hello details where to get admission in the area of Jhansi",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 58, "entity": "City", "start": 52, "value": "Jhansi"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "whatsup inform where to get brouchre nearby Hathras",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 51, "entity": "City", "start": 44, "value": "Hathras"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "hi lookup in city Allahabad",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 27, "entity": "City", "start": 18, "value": "Allahabad"}
+
+        ]
+
+      },
+
+{
+
+        "text": "whatsup inform where to get brouchre in the area of Mainpuri",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 60, "entity": "City", "start": 52, "value": "Mainpuri"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "hi about where to get admission in city Noida",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 45, "entity": "City", "start": 40, "value": "Noida"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "hey there nearby Gorakhpur",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 26, "entity": "City", "start": 17, "value": "Gorakhpur"}
+
+        ]
+
+      },
+
+{
+
+        "text": "hello search located at Muaffarnagar",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 36, "entity": "City", "start": 24, "value": "Muaffarnagar"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "hey lookup where to get admission in the area of Banda",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 54, "entity": "City", "start": 49, "value": "Banda"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "inform where to get brouchre in city Bareilly",
+
+        "intent": "findofficeByCity",
+
+        "entities": [
+
+          {"end": 45, "entity": "City", "start": 37, "value": "Bareilly"}
+
+        ]
+
+      }, 
+      
+{
+
+        "text": "detail of Anand Singh Jalal sir",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {
+
+            "end": 27,
+
+            "entity": "faculty name",
+
+            "start": 10,
+
+            "value": "Anand Singh Jalal"
+
+          }
+
+        ]
+
+      },
+
+      {
+
+        "text": "search Charul Bhatnagar",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {
+
+            "end": 23,
+
+            "entity": "faculty name",
+
+            "start": 7,
+
+            "value": "Charul Bhatnagar"
+
+          }
+
+        ]
+
+      },
+
+      {
+
+        "text": "tell me about Anup Sir",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {"end": 18, "entity": "faculty name", "start": 14, "value": "Anup"}
+
+        ]
+
+      },
+
+{
+
+        "text": "who is Anand Singh Jalal sir",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {
+
+            "end": 24,
+
+            "entity": "faculty name",
+
+            "start": 7,
+
+            "value": "Anand Singh Jalal"
+
+          }
+
+        ]
+
+      },
+
+      {
+
+        "text": "Deepak",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {"end": 6, "entity": "faculty name", "start": 0, "value": "Deepak"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "search Anup Kumar Gupta Sir",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {
+
+            "end": 23,
+
+            "entity": "faculty name",
+
+            "start": 7,
+
+            "value": "Anup Kumar Gupta"
+
+          }
+
+        ]
+
+      },
+
+{
+
+        "text": "about Anand Mohan Agrawal",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {
+
+            "end": 25,
+
+            "entity": "faculty name",
+
+            "start": 6,
+
+            "value": "Anand Mohan Agrawal"
+
+          }
+
+        ]
+
+      },
+
+      {
+
+        "text": "information about Deepak Sir",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {"end": 24, "entity": "faculty name", "start": 18, "value": "Deepak"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "Jitesh Kumar Bhatia sir",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {
+
+            "end": 19,
+
+            "entity": "faculty name",
+
+            "start": 0,
+
+            "value": "Jitesh Kumar Bhatia"
+
+          }
+
+        ]
+
+      },
+
+{
+
+        "text": "detail of Deepak faculty",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {"end": 16, "entity": "faculty name", "start": 10, "value": "Deepak"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "search Anand Mohan Agrawal Sir",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {
+
+            "end": 26,
+
+            "entity": "faculty name",
+
+            "start": 7,
+
+            "value": "Anand Mohan Agrawal"
+
+          }
+
+        ]
+
+      },
+
+      {
+
+        "text": "who is Pradeep Mishra sir",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {
+
+            "end": 21,
+
+            "entity": "faculty name",
+
+            "start": 7,
+
+            "value": "Pradeep Mishra"
+
+          }
+
+        ]
+
+      },
+
+{
+
+        "text": "about Pradeep Sir",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {"end": 13, "entity": "faculty name", "start": 6, "value": "Pradeep"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "tell me about Deepak Mangal",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {
+
+            "end": 27,
+
+            "entity": "faculty name",
+
+            "start": 14,
+
+            "value": "Deepak Mangal"
+
+          }
+
+        ]
+
+      },
+
+      {
+
+        "text": "Anand Mohan Agrawal faculty",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {
+
+            "end": 19,
+
+            "entity": "faculty name",
+
+            "start": 0,
+
+            "value": "Anand Mohan Agrawal"
+
+          }
+
+        ]
+
+      },
+
+{
+
+        "text": "show details of Anand faculty",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {"end": 21, "entity": "faculty name", "start": 16, "value": "Anand"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "about Pradeep sir",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {"end": 13, "entity": "faculty name", "start": 6, "value": "Pradeep"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "tell me about Deepak",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {"end": 20, "entity": "faculty name", "start": 14, "value": "Deepak"}
+
+        ]
+
+      },
+
+{
+
+        "text": "search Anant Ram faculty",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {
+
+            "end": 16,
+
+            "entity": "faculty name",
+
+            "start": 7,
+
+            "value": "Anant Ram"
+
+          }
+
+        ]
+
+      },
+
+      {
+
+        "text": "show details of Divya Saksena Sir",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {
+
+            "end": 29,
+
+            "entity": "faculty name",
+
+            "start": 16,
+
+            "value": "Divya Saksena"
+
+          }
+
+        ]
+
+      },
+
+      {
+
+        "text": "who is Jitesh",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {"end": 13, "entity": "faculty name", "start": 7, "value": "Jitesh"}
+
+        ]
+
+      },
+
+{
+
+        "text": "search Anant Sir",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {"end": 12, "entity": "faculty name", "start": 7, "value": "Anant"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "detail of Deepak Mangal faculty",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {
+
+            "end": 23,
+
+            "entity": "faculty name",
+
+            "start": 10,
+
+            "value": "Deepak Mangal"
+
+          }
+
+        ]
+
+      },
+
+      {
+
+        "text": "show details of Deepak sir",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {"end": 22, "entity": "faculty name", "start": 16, "value": "Deepak"}
+
+        ]
+
+      },
+
+{
+
+        "text": "show details of Jitesh Kumar Bhatia sir",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {
+
+            "end": 35,
+
+            "entity": "faculty name",
+
+            "start": 16,
+
+            "value": "Jitesh Kumar Bhatia"
+
+          }
+
+        ]
+
+      },
+
+      {
+
+        "text": "detail of Charul Sir",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {"end": 16, "entity": "faculty name", "start": 10, "value": "Charul"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "information about Deepak Mangal faculty",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {
+
+            "end": 31,
+
+            "entity": "faculty name",
+
+            "start": 18,
+
+            "value": "Deepak Mangal"
+
+          }
+
+        ]
+
+      },
+
+{
+
+        "text": "detail of Deepak",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {"end": 16, "entity": "faculty name", "start": 10, "value": "Deepak"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "show details of Charul faculty",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {"end": 22, "entity": "faculty name", "start": 16, "value": "Charul"}
+
+        ]
+
+      },
+
+      {
+
+        "text": "Anant sir",
+
+        "intent": "findFacultyByName",
+
+        "entities": [
+
+          {"end": 5, "entity": "faculty name", "start": 0, "value": "Anant"}
+
+        ]
+
+      },
+ {
+        "text": "Charul Bhatnagar sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 16,
+            "entity": "faculty name",
+            "start": 0,
+            "value": "Charul Bhatnagar"
+          }
+        ]
+      },
+      {
+        "text": "tell me about Anand faculty",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 19, "entity": "faculty name", "start": 14, "value": "Anand"}
+        ]
+      },
+      {
+        "text": "who is Divya Saksena",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 20,
+            "entity": "faculty name",
+            "start": 7,
+            "value": "Divya Saksena"
+          }
+        ]
+      },
+      {
+        "text": "information about Pradeep Mishra Sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 32,
+            "entity": "faculty name",
+            "start": 18,
+            "value": "Pradeep Mishra"
+          }
+        ]
+      },
+      {
+        "text": "who is Anup Kumar Gupta sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 23,
+            "entity": "faculty name",
+            "start": 7,
+            "value": "Anup Kumar Gupta"
+          }
+        ]
+      },
+      {
+        "text": "tell me about Anand",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 19, "entity": "faculty name", "start": 14, "value": "Anand"}
+        ]
+      },
+      {
+        "text": "who is Pradeep",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 14, "entity": "faculty name", "start": 7, "value": "Pradeep"}
+        ]
+      },
+      {
+        "text": "tell me about Jitesh Sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 20, "entity": "faculty name", "start": 14, "value": "Jitesh"}
+        ]
+      },
+      {
+        "text": "information about Anand Mohan Agrawal sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 37,
+            "entity": "faculty name",
+            "start": 18,
+            "value": "Anand Mohan Agrawal"
+          }
+        ]
+      },
+      {
+        "text": "Anup Kumar Gupta sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 16,
+            "entity": "faculty name",
+            "start": 0,
+            "value": "Anup Kumar Gupta"
+          }
+        ]
+      },
+      {
+        "text": "tell me about Anand Sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 19, "entity": "faculty name", "start": 14, "value": "Anand"}
+        ]
+      },
+      {
+        "text": "about Anand faculty",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 11, "entity": "faculty name", "start": 6, "value": "Anand"}
+        ]
+      },
+      {
+        "text": "Anup Kumar Gupta sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 16,
+            "entity": "faculty name",
+            "start": 0,
+            "value": "Anup Kumar Gupta"
+          }
+        ]
+      },
+      {
+        "text": "tell me about Anand Sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 19, "entity": "faculty name", "start": 14, "value": "Anand"}
+        ]
+      },
+      {
+        "text": "about Anand faculty",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 11, "entity": "faculty name", "start": 6, "value": "Anand"}
+        ]
+      },
+      {
+        "text": "Anand Mohan Agrawal faculty",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 19,
+            "entity": "faculty name",
+            "start": 0,
+            "value": "Anand Mohan Agrawal"
+          }
+        ]
+      },
+      {
+        "text": "about Divya sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 11, "entity": "faculty name", "start": 6, "value": "Divya"}
+        ]
+      },
+      {
+        "text": "who is Jitesh Sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 13, "entity": "faculty name", "start": 7, "value": "Jitesh"}
+        ]
+      },
+      {
+        "text": "Anand Mohan Agrawal faculty",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 19,
+            "entity": "faculty name",
+            "start": 0,
+            "value": "Anand Mohan Agrawal"
+          }
+        ]
+      },
+      {
+        "text": "about Divya sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 11, "entity": "faculty name", "start": 6, "value": "Divya"}
+        ]
+      },
+      {
+        "text": "who is Jitesh Sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 13, "entity": "faculty name", "start": 7, "value": "Jitesh"}
+        ]
+      },
+      {
+        "text": "information about Charul Bhatnagar sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 34,
+            "entity": "faculty name",
+            "start": 18,
+            "value": "Charul Bhatnagar"
+          }
+        ]
+      },
+      {
+        "text": "tell me about Divya Saksena",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "faculty name",
+            "start": 14,
+            "value": "Divya Saksena"
+          }
+        ]
+      },
+      {
+        "text": "search Jitesh Kumar Bhatia faculty",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 26,
+            "entity": "faculty name",
+            "start": 7,
+            "value": "Jitesh Kumar Bhatia"
+          }
+        ]
+      },
+      {
+        "text": "search Anup Sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 11, "entity": "faculty name", "start": 7, "value": "Anup"}
+        ]
+      },
+      {
+        "text": "show details of Pradeep",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 23, "entity": "faculty name", "start": 16, "value": "Pradeep"}
+        ]
+      },
+      {
+        "text": "detail of Divya faculty",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 15, "entity": "faculty name", "start": 10, "value": "Divya"}
+        ]
+      },
+      {
+        "text": "search Anup Sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 11, "entity": "faculty name", "start": 7, "value": "Anup"}
+        ]
+      },
+      {
+        "text": "show details of Pradeep",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 23, "entity": "faculty name", "start": 16, "value": "Pradeep"}
+        ]
+      },
+      {
+        "text": "detail of Divya faculty",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 15, "entity": "faculty name", "start": 10, "value": "Divya"}
+        ]
+      },
+      {
+        "text": "search Anup Sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 11, "entity": "faculty name", "start": 7, "value": "Anup"}
+        ]
+      },
+      {
+        "text": "show details of Pradeep",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 23, "entity": "faculty name", "start": 16, "value": "Pradeep"}
+        ]
+      },
+      {
+        "text": "detail of Divya faculty",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 15, "entity": "faculty name", "start": 10, "value": "Divya"}
+        ]
+      },
+      {
+        "text": "about Anup sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 10, "entity": "faculty name", "start": 6, "value": "Anup"}
+        ]
+      },
+      {
+        "text": "who is Anand Singh Jalal",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 24,
+            "entity": "faculty name",
+            "start": 7,
+            "value": "Anand Singh Jalal"
+          }
+        ]
+      },
+      {
+        "text": "show details of Anant faculty",
+        "intent": "findFacultyByName",
+        "entities": [
+          {"end": 21, "entity": "faculty name", "start": 16, "value": "Anant"}
+        ]
+      },
+      {
+        "text": "who is Deepak Mangal Sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 20,
+            "entity": "faculty name",
+            "start": 7,
+            "value": "Deepak Mangal"
+          }
+        ]
+      },      {
+        "text": "who is Deepak Mangal Sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 20,
+            "entity": "faculty name",
+            "start": 7,
+            "value": "Deepak Mangal"
+          }
+        ]
+      },
+      {
+        "text": "tell me about Anand Mohan Agrawal faculty",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 33,
+            "entity": "faculty name",
+            "start": 14,
+            "value": "Anand Mohan Agrawal"
+          }
+        ]
+      },
+      {
+        "text": "show details of Divya Saksena",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 29,
+            "entity": "faculty name",
+            "start": 16,
+            "value": "Divya Saksena"
+          }
+        ]
+      },
+      {
+        "text": "tell me about Anand Mohan Agrawal faculty",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 33,
+            "entity": "faculty name",
+            "start": 14,
+            "value": "Anand Mohan Agrawal"
+          }
+        ]
+      },
+      {
+        "text": "show details of Divya Saksena",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 29,
+            "entity": "faculty name",
+            "start": 16,
+            "value": "Divya Saksena"
+          }
+        ]
+      },
+      {
+        "text": "who is Deepak Mangal Sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 20,
+            "entity": "faculty name",
+            "start": 7,
+            "value": "Deepak Mangal"
+          }
+        ]
+      },
+      {
+        "text": "tell me about Anand Mohan Agrawal faculty",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 33,
+            "entity": "faculty name",
+            "start": 14,
+            "value": "Anand Mohan Agrawal"
+          }
+        ]
+      },
+      {
+        "text": "show details of Divya Saksena",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 29,
+            "entity": "faculty name",
+            "start": 16,
+            "value": "Divya Saksena"
+          }
+        ]
+      },
+      {
+        "text": "who is Deepak Mangal Sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 20,
+            "entity": "faculty name",
+            "start": 7,
+            "value": "Deepak Mangal"
+          }
+        ]
+      },
+      {
+        "text": "tell me about Anand Mohan Agrawal faculty",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 33,
+            "entity": "faculty name",
+            "start": 14,
+            "value": "Anand Mohan Agrawal"
+          }
+        ]
+      },
+      {
+        "text": "show details of Divya Saksena",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 29,
+            "entity": "faculty name",
+            "start": 16,
+            "value": "Divya Saksena"
+          }
+        ]
+      },
+      {
+        "text": "who is Deepak Mangal Sir",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 20,
+            "entity": "faculty name",
+            "start": 7,
+            "value": "Deepak Mangal"
+          }
+        ]
+      },
+      {
+        "text": "tell me about Anand Mohan Agrawal faculty",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 33,
+            "entity": "faculty name",
+            "start": 14,
+            "value": "Anand Mohan Agrawal"
+          }
+        ]
+      },
+      {
+        "text": "show details of Divya Saksena",
+        "intent": "findFacultyByName",
+        "entities": [
+          {
+            "end": 29,
+            "entity": "faculty name",
+            "start": 16,
+            "value": "Divya Saksena"
+          }
+        ]
+      } ,
+       {
+        "text": "hey", 
+        "intent": "greet", 
+        "entities": []
+      }, 
+      {
+        "text": "howdy", 
+        "intent": "greet", 
+        "entities": []
+      }, 
+      {
+        "text": "hey there",
+        "intent": "greet", 
+        "entities": []
+      }, 
+      {
+        "text": "hello", 
+        "intent": "greet", 
+        "entities": []
+      }, 
+      {
+        "text": "hi", 
+        "intent": "greet", 
+        "entities": []
+      },
+      {
+        "text": "good morning",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good evening",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "dear sir",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "yes", 
+        "intent": "affirm", 
+        "entities": []
+      }, 
+      {
+        "text": "yep", 
+        "intent": "affirm", 
+        "entities": []
+      }, 
+      {
+        "text": "yeah", 
+        "intent": "affirm", 
+        "entities": []
+      },
+      {
+        "text": "indeed",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "that's right",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "ok",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "great",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "right, thank you",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "correct",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "great choice",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "sounds really good",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "bye", 
+        "intent": "goodbye", 
+        "entities": []
+      }, 
+      {
+        "text": "goodbye", 
+        "intent": "goodbye", 
+        "entities": []
+      }, 
+      {
+        "text": "good bye", 
+        "intent": "goodbye", 
+        "entities": []
+      }, 
+      {
+        "text": "stop", 
+        "intent": "goodbye", 
+        "entities": []
+      }, 
+      {
+        "text": "end", 
+        "intent": "goodbye", 
+        "entities": []
+      },
+      {
+        "text": "farewell",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "Bye bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "have a good one",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "hey", 
+        "intent": "greet", 
+        "entities": []
+      }, 
+      {
+        "text": "howdy", 
+        "intent": "greet", 
+        "entities": []
+      }, 
+      {
+        "text": "hey there",
+        "intent": "greet", 
+        "entities": []
+      }, 
+      {
+        "text": "hello", 
+        "intent": "greet", 
+        "entities": []
+      }, 
+      {
+        "text": "hi", 
+        "intent": "greet", 
+        "entities": []
+      },
+      {
+        "text": "good morning",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good evening",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "dear sir",
+        "intent": "greet",
+        "entities": []
+      }       
+
+],
+
+
+
+
+
+
+
+        "regex_features" : [],
+        "entity_synonyms": []
+    }
+}
