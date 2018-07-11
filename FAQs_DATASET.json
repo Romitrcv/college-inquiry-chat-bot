@@ -1,0 +1,320 @@
+{
+        "text": "method for taking admission?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hey how can i get procedure for pursuing entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hello What is the official way for getting admission?",
+        "intent": "admission",
+        "entities": []
+      },
+{
+        "text": "hi procedure for taking admission?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hello how can i get policy for pursuing entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "What is the official way for gaining admission?",
+        "intent": "admission",
+        "entities": []
+      },
+{
+        "text": "hey What is the procedure for getting admission?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hi how can i get policy for pursuing entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hello official way for gaining admission?",
+        "intent": "admission",
+        "entities": []
+      },
+{
+        "text": "hey how can i get official way for pursuing entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hi method for getting admission?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "What is the procedure for gaining entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+
+        "text": "policy for taking admission?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hello What is the official way for pursuing entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hey how can i get procedure for gaining admission?",
+        "intent": "admission",
+        "entities": []
+      },
+{
+        "text": "hello What is the official way for gaining entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "procedure for pursuing admission?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hey how can i get policy for taking admission?",
+        "intent": "admission",
+        "entities": []
+      },
+   {
+        "text": "hey What is the official way for getting admission?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "method for gaining entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hi how can i get policy for taking entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+     {
+        "text": "hi What is the procedure for taking entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hey method for pursuing admission?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hello how can i get official way for getting entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+{
+        "text": "hi how can i get method for getting admission?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "What is the procedure for taking entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hello official way for gaining admission?",
+        "intent": "admission",
+        "entities": []
+      },
+{
+        "text": "acceptability measure for entrance in the said course?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hey What are the qualification principle for admission in the said series?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hello What are the ability norm for admission in the said course?",
+        "intent": "admission",
+        "entities": []
+      },
+   {
+        "text": "hello qualification criteria for admission in the said series?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hey What are the ability scale for entrance in the said course?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "What are the eligibility standard for entrance in the said series?",
+        "intent": "admission",
+        "entities": []
+      },
+{
+        "text": "hey eligibility measure for admission in the said series?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hello What are the ability basis for entrance in the said course?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "What are the qualification norm for entrance in the said course?",
+        "intent": "admission",
+        "entities": []
+      },
+{
+        "text": "hi acceptability norm for entrance in the said course?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "What are the qualification principle for admission in the said series?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hello What are the ability standard for entrance in the said course?",
+        "intent": "admission",
+        "entities": []
+      },
+{
+        "text": "hello acceptability scale for entrance in the said series?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "What are the eligibility norm for admission in the said course?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hey What are the qualification basis for entrance in the said series?",
+        "intent": "admission",
+        "entities": []
+      },
+{
+        "text": "hello What are the ability principle for admission in the said course?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "qualification basis for entrance in the said series?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hi acceptability standard for admission in the said course?",
+        "intent": "admission",
+        "entities": []
+      },
+{
+        "text": "hello acceptability scale for admission in the said course?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "What are the eligibility criteria for entrance in the said series?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hi ability principle for entrance in the said series?",
+        "intent": "admission",
+        "entities": []
+      },
+{
+        "text": "hey ability basis for admission in the said series?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "What are the qualification standard for entrance in the said course?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hello acceptability criteria for entrance in the said series?",
+        "intent": "admission",
+        "entities": []
+      },
+   {
+        "text": "hey What are the ability basis for admission in the said series?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hi acceptability criteria for entrance in the said course?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "qualification measure for entrance in the said series?",
+        "intent": "admission",
+        "entities": []
+      },
+{
+        "text": "hello What are the eligibility standard for admission in the said series?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hey acceptability principle for entrance in the said course?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "qualification measure for admission in the said series?",
+        "intent": "admission",
+        "entities": []
+      },
+   {
+        "text": "hey qualification standard for entrance in the said course?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hello What are the acceptability criteria for admission in the said series?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "What are the ability principle for admission in the said series?",
+        "intent": "admission",
+        "entities": []
+      },
+  {
+        "text": "hey ability basis for admission in the said course?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hello What are the acceptability norm for entrance in the said series?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hi What are the eligibility principle for admission in the said course?",
+        "intent": "admission",
+        "entities": []
+      },
+
+
+
+
+
