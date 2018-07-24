@@ -1,0 +1,494 @@
+{
+        "text": "greetings Provide some outstanding companies",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hey where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hello Provide few noticeable companies where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "GIve few prominent companies where students of GLA University have been placed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hi List few prominent companies where students of GLA University have been allocated?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hey Name few outstanding companies where students of GLA University have been placed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "List some where students of GLA University have been allocated?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hi Name some noticeable companies",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hello Give some where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings GIve few outstanding companies where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "Name few prominent companies where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hi Name some noticeable companies where students of GLA University have been allocated?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hey Give some prominent companies",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hello Provide some where students of GLA University have been placed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings List few noticeable companies where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "List some outstanding companies where students of GLA University have been placed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hi Provide few prominent companies",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hey outstanding companies where students of GLA University have been allocated?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings Give some noticeable companies where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hello Provide few where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "Name some where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings List few noticeable companies where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hello Name few prominent companies",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hey GIve few outstanding companies where students of GLA University have been placed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hi Provide some outstanding companies where students of GLA University have been allocated?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hello List some noticeable companies where students of GLA University have been allocated?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hey Give some prominent companies where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings Provide some",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hi List some noticeable companies where students of GLA University have been placed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hi prominent companies where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hey Name few outstanding companies where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings Provide few where students of GLA University have been placed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "Name some outstanding companies",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hello List few noticeable companies where students of GLA University have been allocated?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hello GIve few prominent companies where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hi noticeable companies where students of GLA University have been placed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings Give some prominent companies where students of GLA University have been allocated?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hey Name few outstanding companies where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {"text": "Provide some", "intent": "prominentcompanies", "entities": []},
+      {
+        "text": "hello GIve few outstanding companies where students of GLA University have been allocated?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "Provide few prominent companies",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hi Name some where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hey List few noticeable companies where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings List some outstanding companies where students of GLA University have been placed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hey Give some noticeable companies where students of GLA University have been placed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "Provide some where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hello Name some where students of GLA University have been allocated?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings Name few prominent companies where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hey noticeable companies",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "List few where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hi List some outstanding companies where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings Provide some prominent companies where students of GLA University have been placed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "Give some noticeable companies where students of GLA University have been placed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {"text": "hey Name some", "intent": "prominentcompanies", "entities": []},
+      {
+        "text": "hi outstanding companies where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings List some prominent companies where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "GIve few outstanding companies where students of GLA University have been placed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hey Name few where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings List few prominent companies where students of GLA University have been allocated?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hi Name few noticeable companies",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "Give some outstanding companies",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings List some where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hey prominent companies where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hello Provide few noticeable companies where students of GLA University have been placed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hi GIve few where students of GLA University have been allocated?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hello Provide some outstanding companies where students of GLA University have been allocated?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hi Name some prominent companies where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings noticeable companies where students of GLA University have been placed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hey List some prominent companies where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings GIve few outstanding companies",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hey Name some noticeable companies where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hello List few prominent companies where students of GLA University have been allocated?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "Name few where students of GLA University have been placed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hi Provide few outstanding companies where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hey Give some where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hello noticeable companies where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings List some outstanding companies",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "GIve few where students of GLA University have been placed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings Name few noticeable companies where students of GLA University have been allocated?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hi Give some prominent companies where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hello Provide some outstanding companies where students of GLA University have been placed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hey Name some noticeable companies",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "Provide few where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hey Provide some outstanding companies where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hi Provide few prominent companies where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hello Name some prominent companies where students of GLA University have been allocated?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings Give some outstanding companies",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "noticeable companies",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings List few outstanding companies where students of GLA University have been allocated?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hello List some noticeable companies where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hey Name few prominent companies where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hi Name few where students of GLA University have been placed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hi Provide some outstanding companies where students of GLA University have been placed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings Provide few noticeable companies where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hey List few prominent companies",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "where students of GLA University have been positioned?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hello Name some outstanding companies where students of GLA University have been allocated?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "hello Give some where students of GLA University have been fixed?",
+        "intent": "prominentcompanies",
+        "entities": []
+      },
+      {
+        "text": "greetings GIve few noticeable companies",
+        "intent": "prominentcompanies",
+        "entities": []
+      }
+    ]
+  }
