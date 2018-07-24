@@ -1,0 +1,6204 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [],
+    "entity_synonyms": [],
+    "common_examples": [
+      {
+        "text": "what is glirl hostel seperate from boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all geneders hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl accomadation hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what seperate hostels gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for girls and boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions distance between boys and girls hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel far from boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for sexes there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all sexes hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "distance between boys and girls hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel far from boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any glirl hostel seperate from boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the seperate hostels",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl accomadation hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for sexes university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all sexes",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for girls and boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all geneders Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for girls and boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "what girl hostel Gla", "intent": "girlhostel", "entities": []},
+      {
+        "text": "are any seperate hostels hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all geneders",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all sexes there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for sexes hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel far from boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there distance between boys and girls hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are glirl hostel seperate from boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl accomadation hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is seperate hostels hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all sexes there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "are any girl hostel", "intent": "girlhostel", "entities": []},
+      {
+        "text": "what are the girl accomadation hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all geneders hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "glirl hostel seperate from boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "distance between boys and girls hostel hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for girls and boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for sexes university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel far from boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions distance between boys and girls hostel hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for sexes Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel far from boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl accomadation gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what glirl hostel seperate from boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all geneders Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for girls and boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "seperate hostels Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all sexes hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there glirl hostel seperate from boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl accomadation hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is seperate hostels gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for sexes Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the distance between boys and girls hostel hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all sexes university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all geneders hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel far from boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all geneders hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for sexes hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for girls and boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what distance between boys and girls hostel hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl accomadation Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel far from boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "is girl hostel there", "intent": "girlhostel", "entities": []},
+      {
+        "text": "what are the different hostels for all sexes university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any seperate hostels hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all geneders hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions distance between boys and girls hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all sexes",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for girls and boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl accomadation hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel far from boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is glirl hostel seperate from boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for sexes gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there seperate hostels hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for sexes",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all geneders hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for girls and boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel far from boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "distance between boys and girls hostel hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions seperate hostels hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there glirl hostel seperate from boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl accomadation gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for sexes hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all sexes gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is seperate hostels Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is distance between boys and girls hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl accomadation hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for girls and boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel far from boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all geneders university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is glirl hostel seperate from boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for sexes hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are glirl hostel seperate from boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the seperate hostels Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for girls and boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is distance between boys and girls hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all sexes Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel far from boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl accomadation hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all geneders",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is glirl hostel seperate from boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all sexes there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel far from boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions seperate hostels Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for sexes Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl accomadation hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all geneders hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are distance between boys and girls hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all sexes gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for sexes gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for girls and boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any distance between boys and girls hostel hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all geneders",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel far from boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl accomadation hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions seperate hostels there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all geneders gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for girls and boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the seperate hostels hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel far from boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for sexes gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl accomadation hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all geneders hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for girls and boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl accomadation there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there distance between boys and girls hostel hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is glirl hostel seperate from boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions seperate hostels hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for sexes hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all sexes gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel far from boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all sexes gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl accomadation hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there seperate hostels university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for girls and boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel far from boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "glirl hostel seperate from boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is distance between boys and girls hostel hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for sexes hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all geneders Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all sexes university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions distance between boys and girls hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl accomadation hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "is there girl hostel", "intent": "girlhostel", "entities": []},
+      {
+        "text": "what is different hostels for girls and boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "glirl hostel seperate from boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are seperate hostels hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel far from boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all geneders hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what seperate hostels hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl accomadation",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all sexes hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for girls and boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel far from boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are distance between boys and girls hostel hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for sexes Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions glirl hostel seperate from boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all geneders university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are distance between boys and girls hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "seperate hostels Gla", "intent": "girlhostel", "entities": []},
+      {
+        "text": "what girl accomadation hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for sexes hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel far from boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is glirl hostel seperate from boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for girls and boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all sexes Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all geneders hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel far from boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for sexes there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for girls and boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "girl hostel Gla", "intent": "girlhostel", "entities": []},
+      {
+        "text": "what is distance between boys and girls hostel hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel far from boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "seperate hostels university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all geneders hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for girls and boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what glirl hostel seperate from boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl accomadation gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for sexes hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is distance between boys and girls hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel far from boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl accomadation Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions glirl hostel seperate from boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for girls and boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for sexes gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all geneders hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all sexes hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel far from boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions distance between boys and girls hostel hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all sexes hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is glirl hostel seperate from boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for girls and boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for sexes gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl accomadation hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all geneders hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the seperate hostels university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for sexes hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any glirl hostel seperate from boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for girls and boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel far from boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl accomadation hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions seperate hostels",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "distance between boys and girls hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all sexes hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for sexes",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all sexes hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl accomadation there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the distance between boys and girls hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for girls and boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are glirl hostel seperate from boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "seperate hostels hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all geneders gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel far from boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for sexes hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel far from boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for girls and boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there seperate hostels gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all geneders hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl accomadation",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is distance between boys and girls hostel hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all geneders hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all sexes there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel far from boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for sexes hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are seperate hostels gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "glirl hostel seperate from boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl accomadation there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any distance between boys and girls hostel hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel far from boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for girls and boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "girl accomadation", "intent": "girlhostel", "entities": []},
+      {
+        "text": "are any glirl hostel seperate from boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions seperate hostels hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for sexes hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is seperate hostels university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for girls and boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl accomadation there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are glirl hostel seperate from boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel far from boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all sexes university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is distance between boys and girls hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all geneders hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "girl accomadation gla", "intent": "girlhostel", "entities": []},
+      {
+        "text": "is there girl hostel far from boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for girls and boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the glirl hostel seperate from boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all geneders hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for sexes",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the seperate hostels hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any distance between boys and girls hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all sexes hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl accomadation there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "glirl hostel seperate from boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for girls and boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "is girl hostel gla", "intent": "girlhostel", "entities": []},
+      {
+        "text": "what is distance between boys and girls hostel hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are seperate hostels Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for sexes hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all sexes hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel far from boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for sexes hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there seperate hostels gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel far from boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any distance between boys and girls hostel hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is glirl hostel seperate from boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl accomadation hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all geneders hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions seperate hostels gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for girls and boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for sexes hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl accomadation hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there glirl hostel seperate from boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel far from boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions distance between boys and girls hostel hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is seperate hostels gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for girls and boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any glirl hostel seperate from boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for sexes hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all sexes gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel far from boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl accomadation hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all geneders gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "glirl hostel seperate from boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl accomadation hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "what seperate hostels", "intent": "girlhostel", "entities": []},
+      {
+        "text": "distance between boys and girls hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for girls and boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all geneders gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for sexes hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all sexes Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all sexes Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for girls and boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for sexes hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel far from boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is seperate hostels hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all geneders there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl accomadation hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any distance between boys and girls hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel far from boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there seperate hostels hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl accomadation hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all geneders Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all sexes hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any glirl hostel seperate from boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for sexes Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any distance between boys and girls hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "seperate hostels hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all geneders Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any glirl hostel seperate from boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel far from boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl accomadation hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all sexes hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "distance between boys and girls hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there seperate hostels hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel far from boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the glirl hostel seperate from boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for sexes hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for sexes university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl accomadation hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any seperate hostels hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all geneders gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is distance between boys and girls hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel far from boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for girls and boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there glirl hostel seperate from boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all sexes Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all geneders hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for girls and boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl accomadation gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any distance between boys and girls hostel hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel far from boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for sexes gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all geneders Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any seperate hostels there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is distance between boys and girls hostel hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for sexes Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all sexes hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "girl accomadation Gla", "intent": "girlhostel", "entities": []},
+      {
+        "text": "is different hostels for girls and boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what glirl hostel seperate from boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for sexes gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for girls and boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "girl hostel", "intent": "girlhostel", "entities": []},
+      {
+        "text": "what are the seperate hostels gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all geneders hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what glirl hostel seperate from boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel far from boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all sexes Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the distance between boys and girls hostel hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is seperate hostels Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for girls and boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are glirl hostel seperate from boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for sexes Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all geneders hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what distance between boys and girls hostel hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl accomadation university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for sexes",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions seperate hostels hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for girls and boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all geneders there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is glirl hostel seperate from boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all sexes Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel far from boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for girls and boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all geneders",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "distance between boys and girls hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for sexes hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl accomadation Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is glirl hostel seperate from boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel far from boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all geneders",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for sexes university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the glirl hostel seperate from boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for girls and boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all sexes university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for sexes hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "glirl hostel seperate from boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the seperate hostels there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for girls and boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel far from boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all geneders Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl accomadation hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for girls and boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what seperate hostels university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel far from boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for sexes",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all geneders",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all sexes university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl accomadation hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for girls and boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for sexes hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel far from boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all sexes Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for sexes hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "seperate hostels hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the glirl hostel seperate from boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are distance between boys and girls hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel far from boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for girls and boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is seperate hostels hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all geneders hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is glirl hostel seperate from boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are distance between boys and girls hostel hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all sexes hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for sexes hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl accomadation gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl accomadation university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is glirl hostel seperate from boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for girls and boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel far from boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is distance between boys and girls hostel hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all sexes Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl accomadation gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "distance between boys and girls hostel hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all sexes Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for sexes hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for girls and boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there glirl hostel seperate from boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all sexes hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for sexes hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions seperate hostels hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what distance between boys and girls hostel hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for girls and boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl accomadation gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl accomadation hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all sexes gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what seperate hostels hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all geneders gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel far from boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there distance between boys and girls hostel hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for girls and boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the glirl hostel seperate from boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for sexes hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is seperate hostels hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl accomadation there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all geneders hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all sexes Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any distance between boys and girls hostel hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for girls and boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there glirl hostel seperate from boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all sexes hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what seperate hostels gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl accomadation university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel far from boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all geneders hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are distance between boys and girls hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is glirl hostel seperate from boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel far from boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl accomadation Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all sexes hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for girls and boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is glirl hostel seperate from boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what seperate hostels hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for sexes university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are distance between boys and girls hostel hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for girls and boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl accomadation hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all geneders gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all sexes hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all geneders Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all sexes there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl accomadation university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel far from boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is glirl hostel seperate from boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for girls and boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is distance between boys and girls hostel hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for girls and boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel far from boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl accomadation",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for sexes hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all geneders hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all geneders hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what distance between boys and girls hostel hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl accomadation gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "what is girl hostel", "intent": "girlhostel", "entities": []},
+      {
+        "text": "is different hostels for all geneders hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for girls and boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there seperate hostels hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are glirl hostel seperate from boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for girls and boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel far from boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is seperate hostels gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for sexes university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all sexes hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel far from boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl accomadation hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for sexes Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there distance between boys and girls hostel hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for girls and boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for sexes hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what distance between boys and girls hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all sexes hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the glirl hostel seperate from boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel far from boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for girls and boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all geneders hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for girls and boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all sexes hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel far from boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for sexes",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all geneders hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl accomadation Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any seperate hostels hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all sexes hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel far from boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any distance between boys and girls hostel hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the glirl hostel seperate from boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for girls and boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all sexes university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is distance between boys and girls hostel hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl accomadation Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the glirl hostel seperate from boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions glirl hostel seperate from boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl accomadation hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is seperate hostels hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "girl hostel there", "intent": "girlhostel", "entities": []},
+      {
+        "text": "is different hostels for sexes Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all sexes",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is distance between boys and girls hostel hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are glirl hostel seperate from boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is seperate hostels there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all sexes hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel far from boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what seperate hostels Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions distance between boys and girls hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for sexes hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel far from boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel far from boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all sexes gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions glirl hostel seperate from boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the seperate hostels hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for girls and boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for girls and boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel far from boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the seperate hostels gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for sexes hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl accomadation",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all sexes hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there glirl hostel seperate from boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel far from boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions glirl hostel seperate from boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for sexes",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all geneders gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl accomadation hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for girls and boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all geneders there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "glirl hostel seperate from boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl accomadation gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all geneders hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "distance between boys and girls hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all sexes gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for girls and boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are glirl hostel seperate from boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel far from boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl accomadation hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the distance between boys and girls hostel hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any seperate hostels university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl accomadation",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel far from boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all sexes hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for sexes Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is glirl hostel seperate from boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "is seperate hostels", "intent": "girlhostel", "entities": []},
+      {
+        "text": "what are different hostels for girls and boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "glirl hostel seperate from boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl accomadation Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for sexes hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all geneders university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all geneders gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what seperate hostels hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl accomadation hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for sexes there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all sexes",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel far from boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the distance between boys and girls hostel hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel far from boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the glirl hostel seperate from boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all geneders hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what glirl hostel seperate from boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for girls and boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all sexes hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for sexes Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are distance between boys and girls hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for sexes hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all geneders Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all sexes hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any seperate hostels gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel far from boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are glirl hostel seperate from boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all sexes university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for sexes gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all geneders gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the distance between boys and girls hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what seperate hostels hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions distance between boys and girls hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for sexes hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for girls and boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the seperate hostels hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel far from boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any glirl hostel seperate from boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all geneders gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel far from boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for girls and boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "seperate hostels", "intent": "girlhostel", "entities": []},
+      {
+        "text": "what are different hostels for all sexes hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for girls and boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel far from boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all geneders Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl accomadation hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there glirl hostel seperate from boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for sexes hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for sexes hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all geneders hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl accomadation",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "seperate hostels there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "is girl accomadation", "intent": "girlhostel", "entities": []},
+      {
+        "text": "what is different hostels for sexes hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl accomadation hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all geneders university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what distance between boys and girls hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions glirl hostel seperate from boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel far from boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are seperate hostels university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all geneders gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any seperate hostels hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel far from boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel far from boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are seperate hostels hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there distance between boys and girls hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl accomadation hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is distance between boys and girls hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for girls and boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for sexes gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are glirl hostel seperate from boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel far from boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all geneders Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is seperate hostels gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for sexes gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the distance between boys and girls hostel hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are seperate hostels Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all geneders Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "glirl hostel seperate from boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for girls and boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is distance between boys and girls hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for girls and boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl accomadation hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all geneders hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all sexes hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are distance between boys and girls hostel hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for sexes hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all sexes there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is distance between boys and girls hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all sexes hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for sexes Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl accomadation hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are distance between boys and girls hostel hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what seperate hostels Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions distance between boys and girls hostel hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel far from boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl accomadation university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for girls and boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for sexes hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl accomadation university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there seperate hostels Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all geneders Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for girls and boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there distance between boys and girls hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel far from boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for girls and boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all sexes hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for sexes hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "is girl hostel", "intent": "girlhostel", "entities": []},
+      {
+        "text": "what are the girl accomadation hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all geneders hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are seperate hostels",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there distance between boys and girls hostel hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for sexes hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all geneders hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all sexes hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are distance between boys and girls hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for sexes hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there glirl hostel seperate from boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for sexes hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are seperate hostels gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is glirl hostel seperate from boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl accomadation hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl accomadation hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for girls and boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is distance between boys and girls hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there seperate hostels",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all sexes hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for girls and boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any seperate hostels Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl accomadation hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for sexes gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel far from boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all geneders",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl accomadation gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions distance between boys and girls hostel hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "glirl hostel seperate from boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel far from boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all geneders hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for girls and boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl accomadation hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for sexes hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all geneders gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all sexes hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions glirl hostel seperate from boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for girls and boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for girls and boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what distance between boys and girls hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "glirl hostel seperate from boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all sexes Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl accomadation Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all sexes hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all geneders there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel far from boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all sexes Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are glirl hostel seperate from boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "seperate hostels hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all geneders gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there glirl hostel seperate from boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions glirl hostel seperate from boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for sexes hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the seperate hostels Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all sexes hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for girls and boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl accomadation gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is distance between boys and girls hostel hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel far from boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for sexes hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all geneders hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for sexes hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl accomadation Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for girls and boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what seperate hostels hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all sexes hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all geneders university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any glirl hostel seperate from boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "distance between boys and girls hostel hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel far from boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for girls and boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for sexes hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for girls and boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for sexes there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel far from boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all geneders hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are distance between boys and girls hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all sexes hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any distance between boys and girls hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "distance between boys and girls hostel hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel far from boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "is girl hostel Gla", "intent": "girlhostel", "entities": []},
+      {
+        "text": "different hostels for girls and boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "what are girl hostel", "intent": "girlhostel", "entities": []},
+      {
+        "text": "are any distance between boys and girls hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl accomadation hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all geneders hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for girls and boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all sexes gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "distance between boys and girls hostel hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all geneders gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all sexes hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel far from boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for sexes hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what seperate hostels there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for girls and boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl accomadation gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all geneders hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all sexes",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all geneders hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel far from boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all sexes hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what distance between boys and girls hostel hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions distance between boys and girls hostel hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl accomadation Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel far from boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any seperate hostels gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there distance between boys and girls hostel hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel far from boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all geneders hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl accomadation Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for sexes hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel far from boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for girls and boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is glirl hostel seperate from boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all sexes gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are seperate hostels hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all geneders Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what glirl hostel seperate from boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel far from boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for girls and boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all sexes hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what glirl hostel seperate from boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for girls and boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for sexes",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for girls and boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl accomadation gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel far from boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what glirl hostel seperate from boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the distance between boys and girls hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all sexes",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is distance between boys and girls hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all geneders hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is glirl hostel seperate from boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel far from boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the distance between boys and girls hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the seperate hostels hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any glirl hostel seperate from boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl accomadation hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for girls and boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is glirl hostel seperate from boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all geneders there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any glirl hostel seperate from boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel far from boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl accomadation hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the glirl hostel seperate from boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for sexes hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all geneders Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all sexes hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions glirl hostel seperate from boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel far from boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is distance between boys and girls hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for sexes hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl accomadation Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is distance between boys and girls hostel hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what glirl hostel seperate from boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for girls and boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl accomadation hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is seperate hostels hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "glirl hostel seperate from boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl accomadation gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all sexes hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what distance between boys and girls hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel far from boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the distance between boys and girls hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel far from boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all geneders hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions glirl hostel seperate from boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there seperate hostels Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is seperate hostels there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel far from boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions glirl hostel seperate from boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "seperate hostels hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for girls and boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for girls and boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for sexes Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the distance between boys and girls hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for sexes Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel far from boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl accomadation Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is seperate hostels hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all geneders there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for sexes Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all sexes gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for sexes Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is distance between boys and girls hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there seperate hostels hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl accomadation gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any distance between boys and girls hostel hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all sexes",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for girls and boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl accomadation hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl accomadation there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for girls and boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "seperate hostels gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all sexes Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all geneders",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl accomadation university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel far from boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel far from boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all sexes hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl accomadation hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for sexes there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel far from boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all geneders hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all sexes hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel far from boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions distance between boys and girls hostel hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all geneders hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all sexes Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what glirl hostel seperate from boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all geneders Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for sexes hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel far from boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for girls and boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is distance between boys and girls hostel hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all geneders hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is seperate hostels",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there distance between boys and girls hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all geneders",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all sexes Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions seperate hostels hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel far from boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for sexes university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is glirl hostel seperate from boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all sexes gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all geneders hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any seperate hostels",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there glirl hostel seperate from boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what seperate hostels hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "distance between boys and girls hostel hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any glirl hostel seperate from boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for girls and boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all sexes",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl accomadation hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel far from boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all sexes",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is glirl hostel seperate from boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all geneders gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all sexes hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are seperate hostels hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl accomadation hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are distance between boys and girls hostel hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for girls and boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions glirl hostel seperate from boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is seperate hostels hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the seperate hostels hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all geneders hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all sexes there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all sexes gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is glirl hostel seperate from boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is seperate hostels hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl accomadation hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for sexes hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl accomadation university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for sexes gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions seperate hostels university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for girls and boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for sexes hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl accomadation hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all sexes there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is seperate hostels Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions distance between boys and girls hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there seperate hostels there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is seperate hostels hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for girls and boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel far from boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel far from boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel far from boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there distance between boys and girls hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for girls and boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all sexes hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what glirl hostel seperate from boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is distance between boys and girls hostel hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel far from boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are glirl hostel seperate from boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all geneders hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all sexes gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for girls and boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are seperate hostels hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel far from boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for sexes hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for girls and boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all sexes hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for girls and boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all geneders university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for girls and boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all geneders hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for sexes gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "seperate hostels hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the glirl hostel seperate from boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any seperate hostels hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all sexes Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel far from boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for sexes gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all sexes gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is glirl hostel seperate from boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all geneders Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what distance between boys and girls hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl accomadation hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for sexes hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is distance between boys and girls hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all geneders there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the glirl hostel seperate from boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl accomadation hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for sexes there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all sexes hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl accomadation hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all geneders hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for sexes university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is glirl hostel seperate from boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl accomadation",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for sexes gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for girls and boys there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what glirl hostel seperate from boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all sexes hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl accomadation Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl accomadation hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are seperate hostels hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all geneders hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all sexes gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is distance between boys and girls hostel hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel far from boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for girls and boys hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl accomadation Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all sexes hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel far from boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl accomadation there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the distance between boys and girls hostel hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions distance between boys and girls hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all geneders gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all sexes hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any distance between boys and girls hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all geneders gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there distance between boys and girls hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the seperate hostels hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all geneders hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel far from boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all geneders university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel far from boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is glirl hostel seperate from boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl accomadation hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl hostel far from boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the girl hostel hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is glirl hostel seperate from boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for girls and boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel far from boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel far from boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all geneders hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all sexes hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for girls and boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl accomadation hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for sexes there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any glirl hostel seperate from boys gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any glirl hostel seperate from boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any seperate hostels hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for sexes hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel far from boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there distance between boys and girls hostel hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is seperate hostels Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for girls and boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all sexes hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the distance between boys and girls hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any seperate hostels Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for girls and boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for sexes there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "seperate hostels gla", "intent": "girlhostel", "entities": []},
+      {
+        "text": "what are different hostels for sexes gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any glirl hostel seperate from boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel far from boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all geneders hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel far from boys university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for girls and boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for sexes Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is seperate hostels university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for sexes there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all sexes there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for girls and boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what distance between boys and girls hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl accomadation hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for all sexes hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there distance between boys and girls hostel hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl accomadation gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl accomadation hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there distance between boys and girls hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all geneders hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for girls and boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl hostel hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there glirl hostel seperate from boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what distance between boys and girls hostel hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all geneders university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what distance between boys and girls hostel hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are seperate hostels there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel far from boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are glirl hostel seperate from boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "is girl hostel hostel", "intent": "girlhostel", "entities": []},
+      {
+        "text": "what are the different hostels for girls and boys hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all geneders hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is distance between boys and girls hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are seperate hostels hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all sexes gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all geneders hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl hostel far from boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions seperate hostels hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "glirl hostel seperate from boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for girls and boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "girl hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are distance between boys and girls hostel hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "seperate hostels hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "distance between boys and girls hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for girls and boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all sexes Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for sexes hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all sexes university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all sexes hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for girls and boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what distance between boys and girls hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all geneders Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there seperate hostels hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for sexes hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions glirl hostel seperate from boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there glirl hostel seperate from boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for sexes university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what girl accomadation Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there glirl hostel seperate from boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is girl accomadation gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for girls and boys Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel far from boys gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what glirl hostel seperate from boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for sexes hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for sexes hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all sexes hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for all sexes hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is glirl hostel seperate from boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for girls and boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions seperate hostels gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all sexes hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for all geneders hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is seperate hostels hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is seperate hostels hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions different hostels for sexes hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for girls and boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "what girl hostel", "intent": "girlhostel", "entities": []},
+      {
+        "text": "different hostels for all sexes hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the distance between boys and girls hostel hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all sexes hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all geneders university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "different hostels for sexes gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for girls and boys",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for girls and boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all sexes hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what glirl hostel seperate from boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is girl accomadation there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are glirl hostel seperate from boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for sexes gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for girls and boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any distance between boys and girls hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl accomadation hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any girl hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are girl accomadation Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for sexes",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the glirl hostel seperate from boys hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "what girl hostel gla", "intent": "girlhostel", "entities": []},
+      {
+        "text": "what are different hostels for all geneders hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are different hostels for all geneders hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "girl hostel hostel", "intent": "girlhostel", "entities": []},
+      {
+        "text": "what are different hostels for all sexes hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions glirl hostel seperate from boys hostel gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is different hostels for girls and boys hostel",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl hostel far from boys Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "are any different hostels for all sexes hostel Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what different hostels for all geneders there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there different hostels for all sexes gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for all geneders there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the different hostels for all geneders hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what is seperate hostels hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions seperate hostels Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is seperate hostels hostel gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "provisions girl accomadation hostel Gla",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there girl accomadation university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is there seperate hostels hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "is different hostels for sexes Gla University",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {
+        "text": "what are the glirl hostel seperate from boys hostel university",
+        "intent": "girlhostel",
+        "entities": []
+      },
+      {"text": "girl hostel gla", "intent": "girlhostel", "entities": []},
+      {
+        "text": "girl hostel far from boys hostel there",
+        "intent": "girlhostel",
+        "entities": []
+      }
+    ]
+  }
+}
