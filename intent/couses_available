@@ -1,0 +1,4764 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [],
+    "entity_synonyms": [],
+    "common_examples": [
+      {
+        "text": "what are the courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {"text": "courses there", "intent": "courses_available", "entities": []},
+      {
+        "text": "greetings all other branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {"text": "branches gla", "intent": "courses_available", "entities": []},
+      {
+        "text": "hey what are the courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {"text": "pls course gla", "intent": "courses_available", "entities": []},
+      {
+        "text": "hi please departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {"text": "hi course gla", "intent": "courses_available", "entities": []},
+      {
+        "text": "hey every courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {"text": "branches there", "intent": "courses_available", "entities": []},
+      {
+        "text": "hey all other departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {"text": "hey course gla", "intent": "courses_available", "entities": []},
+      {
+        "text": "greetings every courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {"text": "courses gla", "intent": "courses_available", "entities": []},
+      {
+        "text": "hello all other branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {"text": "hi courses gla", "intent": "courses_available", "entities": []},
+      {
+        "text": "hey pls courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {"text": "course gla", "intent": "courses_available", "entities": []},
+      {
+        "text": "pls departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {"text": "all course gla", "intent": "courses_available", "entities": []},
+      {
+        "text": "hey what are the departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {"text": "course there", "intent": "courses_available", "entities": []},
+      {
+        "text": "all other course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi all other branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings what are the course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "which departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please course there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "please branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "every departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please branches available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello course gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello please course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello pls branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi which course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all departments in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi every branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello which courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello all other departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi what are the branches in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey every departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "pls courses in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey pls courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "branches in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all other branches gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings every courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey please courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello every branches available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the departments gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings which course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey all branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi pls departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which departments available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the courses available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please branches there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hi please courses there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all other courses available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the courses gla",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings please course available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hello what are the departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "what are the departments there",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings all other course in Gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which course available at gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey which departments available in GLa University",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey courses in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "hey what are the course in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "greetings pls departments in gla university",
+        "intent": "courses_available",
+        "entities": []
+      },
+      {
+        "text": "all departments gla",
+        "intent": "courses_available",
+        "entities": []
+      }
+    ]
+  }
+}
