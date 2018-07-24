@@ -1,0 +1,502 @@
+   {
+        "text": "hi Do you provide employment? What is the security for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "What is the condition of placements? guarantee for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hey Do you give certainty for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "greetings What is the condition of placing of students? Is their any undertaking for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hello Do you provide placements? Do you give assurance for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hello employment? What is the certificate for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hi placing of students? Is their any agreement for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "greetings Do you provide undertaking for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "What is the condition of employment? Is their any guarantee for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hey What is the condition of placing of students? What is the agreement for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hey placements? Do you give certificate for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hi Do you provide security for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "What is the condition of placements? Is their any assurance for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hello Do you provide placing of students? Do you give certainty for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "greetings employment? agreement for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "Do you provide What is the security for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hey employment? Is their any assurance for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hello What is the condition of placing of students? Do you give guarantee for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hi placements? What is the undertaking for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "greetings What is the condition of certainty for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "Do you provide employment? Do you give certificate for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hey Is their any security for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hi What is the condition of placing of students? undertaking for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "greetings Do you provide placements? What is the agreement for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hello placing of students? Is their any certificate for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hello Do you provide employment? guarantee for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "What is the condition of placements? What is the assurance for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hi What is the condition of Do you give certainty for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hey placing of students? Is their any certificate for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "greetings Do you provide employment? What is the certainty for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hi placements? agreement for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hello Do you provide Do you give assurance for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "greetings What is the condition of placements? Is their any guarantee for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hey What is the condition of employment? Do you give undertaking for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "security for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hi Do you provide placing of students? What is the undertaking for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hello What is the condition of certificate for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "greetings employment? What is the certainty for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "Do you provide placing of students? Is their any security for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hey Do you provide placements? Do you give assurance for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "greetings What is the condition of guarantee for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "employment? Is their any agreement for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hello Do you provide placements? Do you give undertaking for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hey placing of students? What is the certainty for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hi What is the condition of employment? guarantee for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hi placements? Do you give assurance for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "greetings Do you provide Is their any agreement for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hello What is the condition of placing of students? What is the security for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hey employment? What is the certificate for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "What is the condition of placements? Is their any guarantee for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hi Do you provide placing of students? undertaking for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "What is the condition of Do you give certainty for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hello Do you provide placing of students? Do you give certificate for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "greetings assurance for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hey placements? What is the agreement for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hello What is the condition of employment? Is their any security for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hi Do you provide placing of students? Do you give undertaking for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "greetings Do you provide placements? guarantee for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "What is the condition of Is their any assurance for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hey employment? What is the agreement for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hi Do you provide employment? What is the certificate for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hello security for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hey What is the condition of placing of students? Is their any certainty for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "greetings placements? Do you give undertaking for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "Do you provide Is their any security for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "What is the condition of placing of students? certificate for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "greetings Do you provide employment? Do you give assurance for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hi placements? What is the guarantee for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hey What is the condition of placing of students? Do you give agreement for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hello Do you provide certainty for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "What is the condition of placements? What is the certainty for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hello employment? Is their any certificate for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "greetings What is the condition of placements? What is the security for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hey Do you provide employment? undertaking for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hi placing of students? Do you give agreement for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hi What is the condition of Is their any assurance for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "greetings Do you provide placing of students? What is the guarantee for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hey employment? Do you give undertaking for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hello What is the condition of placements? Is their any guarantee for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "assurance for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "greetings Do you provide placing of students? Is their any security for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hi What is the condition of placements? What is the agreement for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hey Do you provide employment? Do you give certificate for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "certainty for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hello Do you provide employment? Is their any guarantee for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hey What is the condition of placements? certificate for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hello Do you give security for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "Do you provide placing of students? What is the agreement for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hi What is the condition of employment? Is their any undertaking for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "greetings What is the assurance for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hello placements? certainty for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hey What is the condition of placing of students? Do you give assurance for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "Do you provide employment? What is the certificate for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "greetings placing of students? certainty for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hi What is the condition of placements? Do you give guarantee for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hi Do you provide Do you give agreement for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hello placing of students? undertaking for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "hey What is the condition of employment? What is the certainty for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "greetings employment? Do you give agreement for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      },
+      {
+        "text": "Do you provide placements? undertaking for the same?",
+        "intent": "placementassurity",
+        "entities": []
+      }
+    ]
+  }
