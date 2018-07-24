@@ -1,0 +1,3160 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [],
+    "entity_synonyms": [],
+    "common_examples": [
+      {"text": "are any gym around Gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gyms in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is gym facilites outside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gymnasium inside gla", "intent": "gym", "entities": []},
+      {"text": "gym university", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gymnasium around",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gym facilites inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gyms outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gymnasium", "intent": "gym", "entities": []},
+      {"text": "is there gym in there", "intent": "gym", "entities": []},
+      {"text": "is gym facilites in Gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gyms outside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what gym facilites inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gym around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gyms Gla University", "intent": "gym", "entities": []},
+      {"text": "are any gymnasium around", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym facilites in Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are any gymnasium inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gyms there", "intent": "gym", "entities": []},
+      {"text": "what gym outside gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gymnasium around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gym inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gyms there", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym facilites in gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gym outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gyms around Gla", "intent": "gym", "entities": []},
+      {
+        "text": "what gym facilites university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gymnasium in", "intent": "gym", "entities": []},
+      {"text": "what are the gym outside", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gymnasium around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gyms outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gymnasium inside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gyms Gla", "intent": "gym", "entities": []},
+      {"text": "are there gym in there", "intent": "gym", "entities": []},
+      {"text": "what gym facilites inside", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gymnasium outside university", "intent": "gym", "entities": []},
+      {"text": "provisions gym around gla", "intent": "gym", "entities": []},
+      {
+        "text": "what gym facilites outside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gyms inside Gla", "intent": "gym", "entities": []},
+      {"text": "is there gymnasium around", "intent": "gym", "entities": []},
+      {"text": "are there gym gla University", "intent": "gym", "entities": []},
+      {"text": "is gymnasium in there", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym facilites outside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gyms gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym in university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gym facilites inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gyms around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym in", "intent": "gym", "entities": []},
+      {
+        "text": "are any gymnasium around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what are the gym inside Gla", "intent": "gym", "entities": []},
+      {"text": "gymnasium Gla University", "intent": "gym", "entities": []},
+      {"text": "is there gyms outside there", "intent": "gym", "entities": []},
+      {
+        "text": "what gym facilites outside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym around there", "intent": "gym", "entities": []},
+      {"text": "are any gymnasium inside gla", "intent": "gym", "entities": []},
+      {"text": "what are the gyms university", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym facilites in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gymnasium outside", "intent": "gym", "entities": []},
+      {"text": "what gyms in Gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym facilites Gla", "intent": "gym", "entities": []},
+      {"text": "what are the gyms inside gla", "intent": "gym", "entities": []},
+      {
+        "text": "are there gymnasium inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym there", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym facilites in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is gyms around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gym outside", "intent": "gym", "entities": []},
+      {"text": "are any gymnasium inside", "intent": "gym", "entities": []},
+      {"text": "gym facilites in gla", "intent": "gym", "entities": []},
+      {
+        "text": "are there gymnasium gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gyms outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gym facilites around Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gym outside there", "intent": "gym", "entities": []},
+      {
+        "text": "are any gymnasium inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what gym facilites Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym in", "intent": "gym", "entities": []},
+      {"text": "is gyms around gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gymnasium outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gyms inside Gla", "intent": "gym", "entities": []},
+      {"text": "is gym facilites in there", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym facilites gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gyms inside Gla University", "intent": "gym", "entities": []},
+      {"text": "what gym around there", "intent": "gym", "entities": []},
+      {"text": "are there gymnasium in Gla", "intent": "gym", "entities": []},
+      {"text": "what gym outside university", "intent": "gym", "entities": []},
+      {"text": "is gyms", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym facilites inside",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gymnasium gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gyms outside university", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym facilites outside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is gymnasium around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gym facilites in Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gyms inside", "intent": "gym", "entities": []},
+      {"text": "what gym university", "intent": "gym", "entities": []},
+      {"text": "are there gyms inside there", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym facilites Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gymnasium around gla", "intent": "gym", "entities": []},
+      {"text": "is there gym in Gla", "intent": "gym", "entities": []},
+      {"text": "what gyms gla", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites in university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gymnasium outside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym around gla University", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gymnasium inside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gym facilites Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gyms outside", "intent": "gym", "entities": []},
+      {"text": "are there gym inside there", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gyms around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gym facilites in gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gymnasium in Gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gyms university", "intent": "gym", "entities": []},
+      {"text": "gym facilites around", "intent": "gym", "entities": []},
+      {
+        "text": "what gymnasium inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gyms in there", "intent": "gym", "entities": []},
+      {"text": "is gym around Gla University", "intent": "gym", "entities": []},
+      {"text": "provisions gyms university", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites inside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gymnasium Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gym outside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym facilites around gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gymnasium inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gyms around", "intent": "gym", "entities": []},
+      {"text": "what gyms university", "intent": "gym", "entities": []},
+      {"text": "gym facilites in Gla", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gymnasium in", "intent": "gym", "entities": []},
+      {"text": "what are the gym outside gla", "intent": "gym", "entities": []},
+      {
+        "text": "are any gyms around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is gym facilites Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gymnasium around", "intent": "gym", "entities": []},
+      {
+        "text": "gym facilites inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gym Gla", "intent": "gym", "entities": []},
+      {"text": "what gymnasium in gla", "intent": "gym", "entities": []},
+      {"text": "is there gym university", "intent": "gym", "entities": []},
+      {
+        "text": "are there gyms around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gym facilites in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym facilites outside Gla", "intent": "gym", "entities": []},
+      {"text": "what are the gym inside", "intent": "gym", "entities": []},
+      {
+        "text": "are any gymnasium in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gymnasium inside gla", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites around there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gyms outside gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gymnasium outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what are the gyms Gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym facilites around there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is gyms outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gym Gla", "intent": "gym", "entities": []},
+      {"text": "is there gyms in", "intent": "gym", "entities": []},
+      {
+        "text": "what gymnasium Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym facilites inside gla", "intent": "gym", "entities": []},
+      {"text": "what gyms around Gla", "intent": "gym", "entities": []},
+      {"text": "is gym facilites outside", "intent": "gym", "entities": []},
+      {"text": "is there gym outside there", "intent": "gym", "entities": []},
+      {"text": "gymnasium in Gla University", "intent": "gym", "entities": []},
+      {"text": "provisions gym university", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites around Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what gymnasium gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gyms outside", "intent": "gym", "entities": []},
+      {"text": "are there gym in university", "intent": "gym", "entities": []},
+      {"text": "gym facilites inside there", "intent": "gym", "entities": []},
+      {"text": "provisions gym inside gla", "intent": "gym", "entities": []},
+      {"text": "is gymnasium Gla University", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gyms outside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gym facilites around",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym facilites around Gla", "intent": "gym", "entities": []},
+      {
+        "text": "what gymnasium outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gyms gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gymnasium in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym facilites inside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gym gla University", "intent": "gym", "entities": []},
+      {"text": "what gym facilites in", "intent": "gym", "entities": []},
+      {
+        "text": "are there gymnasium around gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gyms outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gymnasium around gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym facilites inside", "intent": "gym", "entities": []},
+      {"text": "gyms in Gla University", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gymnasium outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym in gla", "intent": "gym", "entities": []},
+      {"text": "is there gym gla University", "intent": "gym", "entities": []},
+      {"text": "what gyms there", "intent": "gym", "entities": []},
+      {"text": "provisions gymnasium in Gla", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gyms inside", "intent": "gym", "entities": []},
+      {
+        "text": "are any gymnasium outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gym facilites around Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is gyms inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym around university", "intent": "gym", "entities": []},
+      {"text": "provisions gym facilites gla", "intent": "gym", "entities": []},
+      {"text": "what are the gyms in", "intent": "gym", "entities": []},
+      {
+        "text": "are there gymnasium outside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gym outside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "is gymnasium inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gyms Gla University", "intent": "gym", "entities": []},
+      {"text": "gym facilites in university", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym facilites around gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gym outside Gla", "intent": "gym", "entities": []},
+      {"text": "are there gyms around there", "intent": "gym", "entities": []},
+      {
+        "text": "what gymnasium inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym in gla University", "intent": "gym", "entities": []},
+      {"text": "gym facilites", "intent": "gym", "entities": []},
+      {"text": "is there gyms in university", "intent": "gym", "entities": []},
+      {"text": "are any gym Gla University", "intent": "gym", "entities": []},
+      {"text": "is gymnasium around gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gyms outside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gyms gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gym in", "intent": "gym", "entities": []},
+      {
+        "text": "is there gymnasium around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gym in there", "intent": "gym", "entities": []},
+      {"text": "is gym facilites outside Gla", "intent": "gym", "entities": []},
+      {"text": "gyms inside gla", "intent": "gym", "entities": []},
+      {"text": "what gyms in", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gym inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gyms Gla", "intent": "gym", "entities": []},
+      {"text": "gymnasium in university", "intent": "gym", "entities": []},
+      {"text": "what are the gym around gla", "intent": "gym", "entities": []},
+      {"text": "what gym facilites Gla", "intent": "gym", "entities": []},
+      {"text": "provisions gyms in there", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym facilites inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gymnasium around there", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym outside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "gymnasium around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gyms in", "intent": "gym", "entities": []},
+      {
+        "text": "what gym facilites around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are any gyms in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what are the gym gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gymnasium outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gyms inside", "intent": "gym", "entities": []},
+      {
+        "text": "what gym facilites around there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gyms in Gla", "intent": "gym", "entities": []},
+      {"text": "gym inside there", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym facilites in university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gymnasium around gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gyms outside", "intent": "gym", "entities": []},
+      {"text": "what are the gym in there", "intent": "gym", "entities": []},
+      {"text": "is gyms outside university", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym facilites inside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gymnasium", "intent": "gym", "entities": []},
+      {"text": "gyms around Gla University", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym facilites inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gymnasium outside gla", "intent": "gym", "entities": []},
+      {"text": "provisions gym in gla", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gymnasium outside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gym facilites", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gyms around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym inside there", "intent": "gym", "entities": []},
+      {"text": "is gym inside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gyms gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gymnasium in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gym facilites", "intent": "gym", "entities": []},
+      {
+        "text": "are any gyms around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym outside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gymnasium inside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gyms Gla University", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym facilites in there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym around university", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gyms in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gym around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what are the gym there", "intent": "gym", "entities": []},
+      {"text": "is gym facilites inside Gla", "intent": "gym", "entities": []},
+      {"text": "gyms outside gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gymnasium outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gym inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are any gymnasium in university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gyms", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym facilites around there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gymnasium Gla", "intent": "gym", "entities": []},
+      {"text": "gym outside Gla University", "intent": "gym", "entities": []},
+      {"text": "provisions gyms inside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "is gym facilites in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gyms inside gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gymnasium around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym", "intent": "gym", "entities": []},
+      {"text": "are there gyms in there", "intent": "gym", "entities": []},
+      {"text": "are any gymnasium around gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gyms Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gymnasium inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gym facilites outside",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym inside university", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are any gymnasium gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gyms around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym around", "intent": "gym", "entities": []},
+      {"text": "are there gym facilites gla", "intent": "gym", "entities": []},
+      {"text": "gymnasium inside Gla", "intent": "gym", "entities": []},
+      {"text": "is there gyms gla University", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym facilites outside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what are the gym around", "intent": "gym", "entities": []},
+      {
+        "text": "is gym facilites in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are any gym inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gymnasium gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gymnasium around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gyms inside gla", "intent": "gym", "entities": []},
+      {"text": "what gym facilites around", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites outside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym inside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what gym facilites inside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gymnasium Gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gymnasium in gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gym facilites outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gym university", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gymnasium outside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym facilites inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gymnasium around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym Gla University", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites around gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym inside", "intent": "gym", "entities": []},
+      {"text": "what gyms in Gla University", "intent": "gym", "entities": []},
+      {"text": "gymnasium gla University", "intent": "gym", "entities": []},
+      {"text": "are there gyms inside Gla", "intent": "gym", "entities": []},
+      {"text": "provisions gym around there", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym facilites in university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gyms outside there", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gymnasium around there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym inside gla University", "intent": "gym", "entities": []},
+      {"text": "are there gyms outside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym facilites outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gyms inside gla", "intent": "gym", "entities": []},
+      {"text": "are any gym facilites", "intent": "gym", "entities": []},
+      {
+        "text": "what gymnasium in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gym Gla University", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym facilites inside",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gyms in there", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gymnasium university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are any gym facilites in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gym around", "intent": "gym", "entities": []},
+      {"text": "is gymnasium inside there", "intent": "gym", "entities": []},
+      {"text": "are any gym in university", "intent": "gym", "entities": []},
+      {"text": "is there gyms around there", "intent": "gym", "entities": []},
+      {
+        "text": "gymnasium outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym gla University", "intent": "gym", "entities": []},
+      {
+        "text": "are there gymnasium outside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gym facilites around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym inside Gla University", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym facilites Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gymnasium in", "intent": "gym", "entities": []},
+      {"text": "gyms outside there", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym facilites outside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gym inside Gla", "intent": "gym", "entities": []},
+      {"text": "gymnasium around", "intent": "gym", "entities": []},
+      {"text": "what gym facilites in there", "intent": "gym", "entities": []},
+      {
+        "text": "is gyms inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gym facilites gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym around there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are any gymnasium around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym Gla University", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gymnasium inside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym facilites outside", "intent": "gym", "entities": []},
+      {
+        "text": "are there gyms in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gym outside gla", "intent": "gym", "entities": []},
+      {
+        "text": "are there gymnasium inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gyms in gla University", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what are the gyms", "intent": "gym", "entities": []},
+      {"text": "is there gym around Gla", "intent": "gym", "entities": []},
+      {"text": "gymnasium inside gla", "intent": "gym", "entities": []},
+      {"text": "are any gyms there", "intent": "gym", "entities": []},
+      {
+        "text": "gym facilites around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is gymnasium outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what are the gymnasium", "intent": "gym", "entities": []},
+      {
+        "text": "what gym facilites inside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gyms in gla", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gyms around", "intent": "gym", "entities": []},
+      {
+        "text": "are there gymnasium outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym in Gla", "intent": "gym", "entities": []},
+      {"text": "are any gym facilites gla", "intent": "gym", "entities": []},
+      {"text": "is gymnasium outside there", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym facilites outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gyms inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "gym facilites in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gym inside", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym facilites outside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gymnasium around gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym in Gla University", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites inside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gym outside", "intent": "gym", "entities": []},
+      {
+        "text": "is gym facilites inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gym facilites Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gyms outside", "intent": "gym", "entities": []},
+      {"text": "provisions gyms around there", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym facilites in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gymnasium gla", "intent": "gym", "entities": []},
+      {"text": "gym in gla University", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites outside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gyms Gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym facilites outside",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gymnasium in there", "intent": "gym", "entities": []},
+      {"text": "gyms around gla University", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym facilites outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gymnasium inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym around gla", "intent": "gym", "entities": []},
+      {
+        "text": "are any gymnasium inside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gym around gla", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gym in", "intent": "gym", "entities": []},
+      {
+        "text": "is gym facilites around there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what are the gyms inside Gla", "intent": "gym", "entities": []},
+      {"text": "gymnasium", "intent": "gym", "entities": []},
+      {
+        "text": "what gym facilites around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gyms around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gymnasium there", "intent": "gym", "entities": []},
+      {
+        "text": "gym facilites outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gyms inside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "are there gymnasium outside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what are the gyms around", "intent": "gym", "entities": []},
+      {"text": "gym in university", "intent": "gym", "entities": []},
+      {
+        "text": "what gyms around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gym facilites inside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym outside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gymnasium Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gymnasium in university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym facilites inside Gla", "intent": "gym", "entities": []},
+      {"text": "are any gym gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gymnasium around there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gyms around", "intent": "gym", "entities": []},
+      {"text": "is gym university", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym facilites inside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gyms in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what are the gymnasium Gla", "intent": "gym", "entities": []},
+      {
+        "text": "what gyms outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gyms around Gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gymnasium outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gym outside gla", "intent": "gym", "entities": []},
+      {"text": "what gymnasium around there", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym facilites inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gymnasium in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gyms outside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "what gym facilites around gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gym inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gyms around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym facilites there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "gymnasium around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gymnasium inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gym facilites Gla", "intent": "gym", "entities": []},
+      {"text": "what gym in", "intent": "gym", "entities": []},
+      {"text": "gym facilites outside gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gyms inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gymnasium in Gla", "intent": "gym", "entities": []},
+      {"text": "what gym inside", "intent": "gym", "entities": []},
+      {"text": "are any gym facilites in gla", "intent": "gym", "entities": []},
+      {"text": "is gyms in Gla", "intent": "gym", "entities": []},
+      {
+        "text": "gym facilites outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gymnasium inside", "intent": "gym", "entities": []},
+      {"text": "are there gyms around", "intent": "gym", "entities": []},
+      {"text": "are any gym facilites there", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gymnasium in Gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym facilites inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gymnasium in", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gymnasium outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "gym facilites inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gym facilites in Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is gyms outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gym around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gymnasium inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym facilites in gla", "intent": "gym", "entities": []},
+      {"text": "what are the gym around Gla", "intent": "gym", "entities": []},
+      {"text": "provisions gym in Gla", "intent": "gym", "entities": []},
+      {
+        "text": "are any gyms inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gym facilites university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gyms Gla University", "intent": "gym", "entities": []},
+      {"text": "what are the gymnasium in", "intent": "gym", "entities": []},
+      {"text": "gym facilites inside", "intent": "gym", "entities": []},
+      {
+        "text": "is there gymnasium outside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym facilites in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is gym outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym facilites outside", "intent": "gym", "entities": []},
+      {
+        "text": "is there gymnasium inside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are any gym facilites in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gym there", "intent": "gym", "entities": []},
+      {"text": "what gyms inside university", "intent": "gym", "entities": []},
+      {"text": "gymnasium gla", "intent": "gym", "entities": []},
+      {
+        "text": "is gym facilites outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is gymnasium in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gym facilites inside", "intent": "gym", "entities": []},
+      {"text": "is there gyms outside gla", "intent": "gym", "entities": []},
+      {"text": "what gyms inside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "are there gymnasium in university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are any gymnasium outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what are the gym facilites", "intent": "gym", "entities": []},
+      {"text": "what gyms inside there", "intent": "gym", "entities": []},
+      {"text": "is gym in university", "intent": "gym", "entities": []},
+      {"text": "what are the gyms gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gymnasium outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what gym facilites around Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gym facilites outside",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gyms in university", "intent": "gym", "entities": []},
+      {"text": "gyms outside", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gyms inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gymnasium outside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what gym facilites gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gymnasium around", "intent": "gym", "entities": []},
+      {"text": "gym facilites there", "intent": "gym", "entities": []},
+      {"text": "are any gyms outside gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gymnasium around Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gym facilites outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gyms in gla University", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym facilites inside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gyms in", "intent": "gym", "entities": []},
+      {
+        "text": "what gym around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gym inside there", "intent": "gym", "entities": []},
+      {"text": "are there gyms outside gla", "intent": "gym", "entities": []},
+      {
+        "text": "what gymnasium around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym facilites university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym outside Gla", "intent": "gym", "entities": []},
+      {"text": "provisions gymnasium in gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gyms inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gyms in", "intent": "gym", "entities": []},
+      {
+        "text": "are any gymnasium inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gyms outside Gla", "intent": "gym", "entities": []},
+      {"text": "are there gym outside there", "intent": "gym", "entities": []},
+      {"text": "what gymnasium inside there", "intent": "gym", "entities": []},
+      {"text": "what are the gym", "intent": "gym", "entities": []},
+      {"text": "is gym outside", "intent": "gym", "entities": []},
+      {"text": "provisions gym in university", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gymnasium around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gyms gla University", "intent": "gym", "entities": []},
+      {"text": "provisions gyms in gla", "intent": "gym", "entities": []},
+      {"text": "what gymnasium", "intent": "gym", "entities": []},
+      {"text": "is there gyms gla", "intent": "gym", "entities": []},
+      {"text": "gym facilites around Gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gymnasium inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym in gla", "intent": "gym", "entities": []},
+      {
+        "text": "are there gymnasium around there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gyms outside Gla", "intent": "gym", "entities": []},
+      {"text": "gym around Gla University", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is gym outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gym outside", "intent": "gym", "entities": []},
+      {"text": "gyms", "intent": "gym", "entities": []},
+      {
+        "text": "is gym facilites inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gyms in university", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gymnasium outside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gym", "intent": "gym", "entities": []},
+      {"text": "what gyms outside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym facilites in there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gym Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gyms in gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym facilites inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gym around Gla", "intent": "gym", "entities": []},
+      {"text": "what gymnasium outside", "intent": "gym", "entities": []},
+      {"text": "are there gym Gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym facilites around", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gymnasium university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gyms outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gymnasium inside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "what gym facilites around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gyms inside there", "intent": "gym", "entities": []},
+      {
+        "text": "are any gyms in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym facilites around gla", "intent": "gym", "entities": []},
+      {"text": "what gyms in university", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym facilites outside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gymnasium in gla", "intent": "gym", "entities": []},
+      {
+        "text": "what gyms inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gymnasium gla University", "intent": "gym", "entities": []},
+      {"text": "are any gyms outside Gla", "intent": "gym", "entities": []},
+      {"text": "are any gyms inside gla", "intent": "gym", "entities": []},
+      {
+        "text": "are there gymnasium around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gym facilites university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gym facilites inside",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gymnasium in university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gymnasium around Gla", "intent": "gym", "entities": []},
+      {"text": "provisions gym gla", "intent": "gym", "entities": []},
+      {
+        "text": "is gym facilites in university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gymnasium around there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym", "intent": "gym", "entities": []},
+      {
+        "text": "gym facilites in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is gym facilites around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gyms outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gym around there", "intent": "gym", "entities": []},
+      {"text": "what gym inside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym facilites around gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gym inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are any gymnasium around there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what gym facilites outside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym in Gla University", "intent": "gym", "entities": []},
+      {"text": "what gymnasium inside", "intent": "gym", "entities": []},
+      {"text": "gym Gla", "intent": "gym", "entities": []},
+      {
+        "text": "what gym facilites inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gyms inside gla", "intent": "gym", "entities": []},
+      {"text": "is gym around gla University", "intent": "gym", "entities": []},
+      {
+        "text": "are there gymnasium university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gym outside there", "intent": "gym", "entities": []},
+      {"text": "is gymnasium inside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gyms in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym facilites", "intent": "gym", "entities": []},
+      {
+        "text": "is gymnasium inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym in Gla University", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym facilites around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are any gym outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gymnasium around Gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym facilites inside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym facilites outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gymnasium gla", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gyms inside there", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym facilites in",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are any gyms inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are any gym around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gymnasium in there", "intent": "gym", "entities": []},
+      {"text": "provisions gym facilites Gla", "intent": "gym", "entities": []},
+      {"text": "is gyms in university", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gyms around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gym inside", "intent": "gym", "entities": []},
+      {"text": "what gymnasium inside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "is gym facilites around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gym inside gla", "intent": "gym", "entities": []},
+      {"text": "gymnasium in Gla", "intent": "gym", "entities": []},
+      {"text": "are any gyms university", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gyms outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gymnasium inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym outside there", "intent": "gym", "entities": []},
+      {"text": "is gym outside university", "intent": "gym", "entities": []},
+      {"text": "gyms inside there", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym facilites around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gymnasium", "intent": "gym", "entities": []},
+      {"text": "are there gyms inside", "intent": "gym", "entities": []},
+      {
+        "text": "what gym facilites in university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gymnasium Gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym facilites Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym outside gla University", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gymnasium in there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gyms gla", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym facilites outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gymnasium there", "intent": "gym", "entities": []},
+      {
+        "text": "are any gyms outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gym facilites inside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym facilites in", "intent": "gym", "entities": []},
+      {"text": "are any gym in gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gymnasium Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gymnasium outside gla", "intent": "gym", "entities": []},
+      {"text": "gym inside Gla University", "intent": "gym", "entities": []},
+      {
+        "text": "are there gyms outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gymnasium in there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gym facilites Gla", "intent": "gym", "entities": []},
+      {"text": "provisions gym there", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gymnasium in Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gyms around gla", "intent": "gym", "entities": []},
+      {
+        "text": "what gym facilites inside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gym facilites inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "gymnasium inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gymnasium inside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym around", "intent": "gym", "entities": []},
+      {"text": "are any gym around gla", "intent": "gym", "entities": []},
+      {
+        "text": "what gym outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gyms gla University", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym facilites in there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gyms around", "intent": "gym", "entities": []},
+      {
+        "text": "is gymnasium inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gym facilites gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what are the gym in gla", "intent": "gym", "entities": []},
+      {"text": "gym outside university", "intent": "gym", "entities": []},
+      {"text": "is there gymnasium inside", "intent": "gym", "entities": []},
+      {"text": "what are the gymnasium gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gymnasium university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gyms outside Gla University", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym facilites inside",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what gymnasium in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gyms gla", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites outside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gymnasium there", "intent": "gym", "entities": []},
+      {"text": "is gymnasium around Gla", "intent": "gym", "entities": []},
+      {"text": "what gym", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gymnasium inside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gyms inside", "intent": "gym", "entities": []},
+      {
+        "text": "are any gymnasium outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gymnasium outside gla", "intent": "gym", "entities": []},
+      {"text": "provisions gyms around", "intent": "gym", "entities": []},
+      {"text": "what are the gyms around Gla", "intent": "gym", "entities": []},
+      {"text": "gyms university", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym facilites there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gymnasium in gla", "intent": "gym", "entities": []},
+      {"text": "provisions gymnasium inside", "intent": "gym", "entities": []},
+      {"text": "what are the gyms in gla", "intent": "gym", "entities": []},
+      {"text": "is there gyms university", "intent": "gym", "entities": []},
+      {"text": "what are the gym outside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "what gym facilites inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gyms in university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gyms outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gym", "intent": "gym", "entities": []},
+      {
+        "text": "what gymnasium outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym facilites gla", "intent": "gym", "entities": []},
+      {"text": "what gym in Gla", "intent": "gym", "entities": []},
+      {
+        "text": "are there gymnasium inside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym facilites around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gyms in Gla", "intent": "gym", "entities": []},
+      {
+        "text": "gym facilites inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gym there", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gymnasium in there", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gyms inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym facilites outside gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gyms outside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gym facilites in", "intent": "gym", "entities": []},
+      {"text": "is there gymnasium in Gla", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gymnasium there", "intent": "gym", "entities": []},
+      {
+        "text": "are any gyms around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gymnasium university", "intent": "gym", "entities": []},
+      {"text": "is gym facilites in gla", "intent": "gym", "entities": []},
+      {
+        "text": "are there gymnasium in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gymnasium outside", "intent": "gym", "entities": []},
+      {"text": "is gyms around Gla", "intent": "gym", "entities": []},
+      {"text": "are there gym inside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gyms inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gym around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gyms Gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym facilites outside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gymnasium in there", "intent": "gym", "entities": []},
+      {"text": "is gyms around there", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym facilites around there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gym facilites Gla", "intent": "gym", "entities": []},
+      {"text": "is gymnasium outside", "intent": "gym", "entities": []},
+      {"text": "what gyms around gla", "intent": "gym", "entities": []},
+      {"text": "are any gyms inside there", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym facilites gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gymnasium outside Gla", "intent": "gym", "entities": []},
+      {"text": "are any gym facilites around", "intent": "gym", "entities": []},
+      {"text": "what gyms inside gla", "intent": "gym", "entities": []},
+      {"text": "provisions gym around Gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gyms outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym in gla", "intent": "gym", "entities": []},
+      {"text": "gym facilites Gla University", "intent": "gym", "entities": []},
+      {"text": "are there gyms around gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym facilites outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gyms around there", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym facilites in university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym facilites around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym gla University", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites inside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gyms", "intent": "gym", "entities": []},
+      {
+        "text": "is there gymnasium inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gym around", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gymnasium outside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gym gla", "intent": "gym", "entities": []},
+      {"text": "is gym facilites there", "intent": "gym", "entities": []},
+      {"text": "what gym facilites in Gla", "intent": "gym", "entities": []},
+      {
+        "text": "is gym facilites around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gymnasium there", "intent": "gym", "entities": []},
+      {"text": "provisions gyms in Gla", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gyms around gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gymnasium around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gymnasium in university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym facilites around",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gyms inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym facilites outside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gymnasium in university", "intent": "gym", "entities": []},
+      {"text": "are there gyms around Gla", "intent": "gym", "entities": []},
+      {"text": "is gymnasium around", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gymnasium in", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gyms inside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what gym outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym facilites university", "intent": "gym", "entities": []},
+      {"text": "is gymnasium in gla", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gym around there", "intent": "gym", "entities": []},
+      {"text": "what gymnasium university", "intent": "gym", "entities": []},
+      {"text": "gyms in gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gyms in university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gymnasium inside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym around", "intent": "gym", "entities": []},
+      {"text": "are there gym Gla University", "intent": "gym", "entities": []},
+      {
+        "text": "is gym facilites inside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gym", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym facilites inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gymnasium in gla University", "intent": "gym", "entities": []},
+      {"text": "is gym facilites Gla", "intent": "gym", "entities": []},
+      {"text": "what gym outside", "intent": "gym", "entities": []},
+      {"text": "gyms around gla", "intent": "gym", "entities": []},
+      {"text": "are there gym inside", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym facilites around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym outside gla", "intent": "gym", "entities": []},
+      {"text": "provisions gym inside there", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gymnasium gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gym facilites in", "intent": "gym", "entities": []},
+      {"text": "are any gyms around Gla", "intent": "gym", "entities": []},
+      {"text": "are any gym in", "intent": "gym", "entities": []},
+      {"text": "are there gym in Gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gymnasium outside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gyms inside university", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gymnasium inside",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what are the gym in Gla", "intent": "gym", "entities": []},
+      {"text": "what gyms outside there", "intent": "gym", "entities": []},
+      {"text": "is gym facilites in", "intent": "gym", "entities": []},
+      {"text": "are any gym facilites in", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what are the gymnasium there", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gymnasium around Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gyms in gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gyms inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gyms inside", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym facilites around Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym there", "intent": "gym", "entities": []},
+      {"text": "are there gym gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gyms in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gym there", "intent": "gym", "entities": []},
+      {"text": "are there gym university", "intent": "gym", "entities": []},
+      {
+        "text": "are any gymnasium Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gym facilites in there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gym around", "intent": "gym", "entities": []},
+      {"text": "provisions gyms Gla", "intent": "gym", "entities": []},
+      {"text": "are there gym outside gla", "intent": "gym", "entities": []},
+      {"text": "is gym around university", "intent": "gym", "entities": []},
+      {"text": "are any gymnasium in gla", "intent": "gym", "entities": []},
+      {"text": "gym inside Gla", "intent": "gym", "entities": []},
+      {"text": "what are the gyms around gla", "intent": "gym", "entities": []},
+      {"text": "gymnasium in", "intent": "gym", "entities": []},
+      {"text": "is gym gla", "intent": "gym", "entities": []},
+      {
+        "text": "are there gymnasium outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gym inside Gla", "intent": "gym", "entities": []},
+      {"text": "is gym facilites inside gla", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gyms outside gla", "intent": "gym", "entities": []},
+      {"text": "gym around Gla", "intent": "gym", "entities": []},
+      {"text": "is gymnasium in university", "intent": "gym", "entities": []},
+      {
+        "text": "are there gyms inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what gyms around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gymnasium in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gym facilites there", "intent": "gym", "entities": []},
+      {
+        "text": "what gym inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "gym facilites outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gyms in gla University", "intent": "gym", "entities": []},
+      {"text": "are any gym outside", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gymnasium inside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "gym facilites around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gym outside gla", "intent": "gym", "entities": []},
+      {"text": "are there gyms there", "intent": "gym", "entities": []},
+      {
+        "text": "is gymnasium around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym facilites in university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gym facilites in gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gym facilites in", "intent": "gym", "entities": []},
+      {"text": "are any gym around there", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym in gla University", "intent": "gym", "entities": []},
+      {"text": "are there gyms outside", "intent": "gym", "entities": []},
+      {
+        "text": "are there gymnasium Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym facilites in gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gymnasium around university", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym facilites outside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gyms inside there", "intent": "gym", "entities": []},
+      {"text": "gym around there", "intent": "gym", "entities": []},
+      {"text": "is gymnasium", "intent": "gym", "entities": []},
+      {
+        "text": "what gymnasium outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gyms outside Gla", "intent": "gym", "entities": []},
+      {"text": "what are the gym university", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym facilites in Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym Gla University", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gymnasium around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gyms outside there", "intent": "gym", "entities": []},
+      {
+        "text": "is there gymnasium around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gymnasium in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gymnasium outside there", "intent": "gym", "entities": []},
+      {"text": "is gym inside gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym facilites inside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gymnasium around Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what gyms outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym inside gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym facilites around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym outside", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gyms inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym outside gla", "intent": "gym", "entities": []},
+      {"text": "what gymnasium around gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gyms inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gym facilites around there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gym in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym inside gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym facilites around gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gyms in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gymnasium there", "intent": "gym", "entities": []},
+      {
+        "text": "what gymnasium inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gym facilites", "intent": "gym", "entities": []},
+      {"text": "is there gym inside there", "intent": "gym", "entities": []},
+      {"text": "is gyms gla", "intent": "gym", "entities": []},
+      {"text": "what gyms in there", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym facilites outside",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what gym around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym facilites inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gyms in Gla University", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gyms there", "intent": "gym", "entities": []},
+      {"text": "is there gymnasium Gla", "intent": "gym", "entities": []},
+      {"text": "is there gym inside", "intent": "gym", "entities": []},
+      {"text": "provisions gyms around gla", "intent": "gym", "entities": []},
+      {"text": "is there gyms", "intent": "gym", "entities": []},
+      {"text": "is there gym in gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gymnasium in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym facilites gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gymnasium in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gyms inside", "intent": "gym", "entities": []},
+      {"text": "what are the gyms in Gla", "intent": "gym", "entities": []},
+      {"text": "provisions gymnasium outside", "intent": "gym", "entities": []},
+      {
+        "text": "gymnasium inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gyms in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are any gymnasium outside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what are the gym Gla", "intent": "gym", "entities": []},
+      {"text": "what gym in university", "intent": "gym", "entities": []},
+      {"text": "are there gymnasium", "intent": "gym", "entities": []},
+      {"text": "is there gym in university", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym facilites inside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gyms outside", "intent": "gym", "entities": []},
+      {"text": "is gym facilites around gla", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym facilites university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym Gla", "intent": "gym", "entities": []},
+      {
+        "text": "is gymnasium in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gym in gla", "intent": "gym", "entities": []},
+      {"text": "is gyms outside gla", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym facilites around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym gla University", "intent": "gym", "entities": []},
+      {"text": "what are the gyms outside", "intent": "gym", "entities": []},
+      {"text": "are any gyms in university", "intent": "gym", "entities": []},
+      {"text": "gyms inside gla University", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gymnasium outside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is gym facilites outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gymnasium university", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gyms around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gymnasium outside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gym outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what are the gyms in there", "intent": "gym", "entities": []},
+      {"text": "is there gyms there", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gymnasium outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym in there", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym facilites around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gymnasium inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gym facilites outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gym outside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gyms around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym inside", "intent": "gym", "entities": []},
+      {"text": "what gyms around university", "intent": "gym", "entities": []},
+      {"text": "what gym inside there", "intent": "gym", "entities": []},
+      {"text": "is there gymnasium gla", "intent": "gym", "entities": []},
+      {"text": "are there gymnasium inside", "intent": "gym", "entities": []},
+      {"text": "gyms outside gla University", "intent": "gym", "entities": []},
+      {"text": "provisions gyms around Gla", "intent": "gym", "entities": []},
+      {"text": "are any gym in Gla", "intent": "gym", "entities": []},
+      {
+        "text": "what gymnasium around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gym facilites outside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym Gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym facilites around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym facilites in there", "intent": "gym", "entities": []},
+      {"text": "are there gymnasium Gla", "intent": "gym", "entities": []},
+      {"text": "gym facilites gla University", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gym around", "intent": "gym", "entities": []},
+      {
+        "text": "gym facilites around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gym facilites inside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gyms in", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym facilites in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gyms outside university", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym facilites in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gym in there", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gyms around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gym facilites gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym outside there", "intent": "gym", "entities": []},
+      {"text": "are any gym inside gla", "intent": "gym", "entities": []},
+      {"text": "provisions gymnasium Gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym facilites there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gym facilites around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym inside university", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym facilites around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what are the gyms there", "intent": "gym", "entities": []},
+      {
+        "text": "are any gymnasium in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym around Gla", "intent": "gym", "entities": []},
+      {"text": "gym around gla", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites outside",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gyms gla University", "intent": "gym", "entities": []},
+      {
+        "text": "are there gyms outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gyms outside there", "intent": "gym", "entities": []},
+      {"text": "are any gyms", "intent": "gym", "entities": []},
+      {
+        "text": "what gym inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym around Gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym facilites inside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is gym facilites gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are any gym outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gymnasium there", "intent": "gym", "entities": []},
+      {
+        "text": "are there gyms gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gymnasium around", "intent": "gym", "entities": []},
+      {
+        "text": "is there gyms outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gymnasium outside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "are there gym facilites inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gymnasium gla", "intent": "gym", "entities": []},
+      {"text": "gym facilites university", "intent": "gym", "entities": []},
+      {"text": "are there gyms", "intent": "gym", "entities": []},
+      {"text": "gymnasium in there", "intent": "gym", "entities": []},
+      {"text": "is gym inside gla University", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym facilites inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym in there", "intent": "gym", "entities": []},
+      {"text": "gyms Gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym facilites around",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym facilites outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gymnasium outside",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "provisions gym inside Gla", "intent": "gym", "entities": []},
+      {"text": "is gymnasium university", "intent": "gym", "entities": []},
+      {"text": "is there gyms in there", "intent": "gym", "entities": []},
+      {
+        "text": "what gym facilites outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym outside there", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym facilites in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gyms Gla", "intent": "gym", "entities": []},
+      {
+        "text": "are any gyms outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gymnasium around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gyms inside Gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym facilites gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gymnasium inside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is gym facilites outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gymnasium outside", "intent": "gym", "entities": []},
+      {"text": "what are the gym inside gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym facilites outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what are the gym in", "intent": "gym", "entities": []},
+      {
+        "text": "is there gyms around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are any gymnasium outside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gyms around there", "intent": "gym", "entities": []},
+      {
+        "text": "is gyms around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gymnasium in", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gym facilites around Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gymnasium around there", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gymnasium outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym inside university", "intent": "gym", "entities": []},
+      {"text": "provisions gym in", "intent": "gym", "entities": []},
+      {
+        "text": "are any gym in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym facilites", "intent": "gym", "entities": []},
+      {"text": "gymnasium inside", "intent": "gym", "entities": []},
+      {"text": "what gym around gla", "intent": "gym", "entities": []},
+      {
+        "text": "are there gyms Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym facilites around there", "intent": "gym", "entities": []},
+      {"text": "are there gyms university", "intent": "gym", "entities": []},
+      {
+        "text": "what gyms inside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gymnasium gla", "intent": "gym", "entities": []},
+      {
+        "text": "is gymnasium outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are there gym facilites around",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym facilites outside there", "intent": "gym", "entities": []},
+      {"text": "is gym facilites gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gymnasium around Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are there gym inside gla", "intent": "gym", "entities": []},
+      {
+        "text": "what gym facilites outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are any gym facilites in there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gyms inside university", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gymnasium inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gyms in gla", "intent": "gym", "entities": []},
+      {"text": "is gyms Gla University", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are any gymnasium around Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is gym facilites inside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gym facilites outside gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what gym facilites in gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gym facilites there", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym facilites outside university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is there gymnasium gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is gymnasium outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gyms gla University", "intent": "gym", "entities": []},
+      {
+        "text": "are any gymnasium outside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "are any gymnasium around Gla", "intent": "gym", "entities": []},
+      {
+        "text": "is there gym facilites inside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "what gymnasium Gla", "intent": "gym", "entities": []},
+      {"text": "what are the gyms inside", "intent": "gym", "entities": []},
+      {"text": "is gym there", "intent": "gym", "entities": []},
+      {"text": "are any gyms in there", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gyms around there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "gymnasium outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gym in there", "intent": "gym", "entities": []},
+      {"text": "provisions gym", "intent": "gym", "entities": []},
+      {"text": "gymnasium inside there", "intent": "gym", "entities": []},
+      {
+        "text": "what gymnasium around gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "provisions gym facilites outside there",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what gym facilites outside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "is gymnasium around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are any gym facilites university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gyms around there", "intent": "gym", "entities": []},
+      {
+        "text": "are any gyms outside gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what gym facilites in Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gyms in Gla", "intent": "gym", "entities": []},
+      {"text": "provisions gyms in", "intent": "gym", "entities": []},
+      {"text": "is there gym around gla", "intent": "gym", "entities": []},
+      {"text": "are any gyms around", "intent": "gym", "entities": []},
+      {"text": "are any gym facilites in Gla", "intent": "gym", "entities": []},
+      {"text": "gyms around university", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gyms Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gyms in Gla", "intent": "gym", "entities": []},
+      {"text": "gymnasium outside there", "intent": "gym", "entities": []},
+      {
+        "text": "is there gyms inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is gym in Gla", "intent": "gym", "entities": []},
+      {"text": "are there gymnasium in gla", "intent": "gym", "entities": []},
+      {"text": "is gyms around university", "intent": "gym", "entities": []},
+      {"text": "are any gymnasium outside", "intent": "gym", "entities": []},
+      {
+        "text": "are any gyms inside Gla University",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "gymnasium inside university", "intent": "gym", "entities": []},
+      {"text": "is gyms in gla", "intent": "gym", "entities": []},
+      {
+        "text": "what are the gymnasium inside Gla",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "are any gym around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {"text": "is there gym Gla", "intent": "gym", "entities": []},
+      {
+        "text": "provisions gym around university",
+        "intent": "gym",
+        "entities": []
+      },
+      {
+        "text": "what are the gym in Gla University",
+        "intent": "gym",
+        "entities": []
+      }
+    ]
+  }
+}
