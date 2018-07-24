@@ -1,0 +1,135 @@
+{
+        "text": "method for taking admission?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hey how can i get procedure for pursuing entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hello What is the official way for getting admission?",
+        "intent": "admission",
+        "entities": []
+      },
+{
+        "text": "hi procedure for taking admission?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hello how can i get policy for pursuing entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "What is the official way for gaining admission?",
+        "intent": "admission",
+        "entities": []
+      },
+{
+        "text": "hey What is the procedure for getting admission?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hi how can i get policy for pursuing entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hello official way for gaining admission?",
+        "intent": "admission",
+        "entities": []
+      },
+{
+        "text": "hey how can i get official way for pursuing entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hi method for getting admission?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "What is the procedure for gaining entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+
+        "text": "policy for taking admission?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hello What is the official way for pursuing entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hey how can i get procedure for gaining admission?",
+        "intent": "admission",
+        "entities": []
+      },
+{
+        "text": "hello What is the official way for gaining entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "procedure for pursuing admission?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hey how can i get policy for taking admission?",
+        "intent": "admission",
+        "entities": []
+      },
+   {
+        "text": "hey What is the official way for getting admission?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "method for gaining entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hi how can i get policy for taking entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+     {
+        "text": "hi What is the procedure for taking entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hey method for pursuing admission?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hello how can i get official way for getting entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+{
+        "text": "hi how can i get method for getting admission?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "What is the procedure for taking entrance?",
+        "intent": "admission",
+        "entities": []
+      },
+      {
+        "text": "hello official way for gaining admission?",
+        "intent": "admission",
+        "entities": []
+      },
