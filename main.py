@@ -1,3 +1,4 @@
+from serr import *
 import sqlite3
 import re
 import random
@@ -72,10 +73,17 @@ f=0
 def respond(message):
     # Check if the message is in the responses
     global f
+    search = "search"
     resp = match_rule(message)
+    r=message.find(search,0,6)
+    if r==0:
+        str1 = message.replace("search"," ")
+        str1 = str1.strip()
+        bot_message = glasearch(str1)
+    
     #if resp=="121":
      #   bot_message = sql_responce_faculty(message)
-    if resp is not None:
+    elif resp is not None:
         return resp    
     elif message in responses:
         f=0
@@ -100,9 +108,10 @@ def send_message(message):
 
 message =""
 
-while message != "byy":
+while message != ("byy"):
     # Print user_template including the user_message
     print(user_template,end="")
     message=input()
+    message=message.strip()
     send_message(message)
     
