@@ -1,0 +1,448 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [],
+    "entity_synonyms": [],
+    "common_examples": [
+      {
+        "text": "tell me that is there any clubs in the college",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hello can i get the details of clubs in university",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hi what are the clubs in gla",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey clubs in Gla University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey can i get the details of clubs in GLA University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {"text": "hello clubs in GLA", "intent": "clubdetails", "entities": []},
+      {
+        "text": "what are the clubs in gla",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hi tell me that is there any clubs in GLA",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "can i get the details of clubs in the college",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hello tell me that is there any clubs in university",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hello what are the clubs in gla",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {"text": "hi clubs in GLA", "intent": "clubdetails", "entities": []},
+      {
+        "text": "tell me that is there any clubs in gla",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hi can i get the details of clubs in Gla University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {"text": "hey clubs in gla", "intent": "clubdetails", "entities": []},
+      {
+        "text": "hello what are the clubs in university",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey clubs in GLA University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "tell me that is there any clubs in Gla University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hi can i get the details of clubs in gla",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "what are the clubs in the college",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey tell me that is there any clubs in GLA University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hi can i get the details of clubs in university",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey what are the clubs in university",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {"text": "clubs in the college", "intent": "clubdetails", "entities": []},
+      {
+        "text": "hi can i get the details of clubs in GLA University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hello tell me that is there any clubs in gla",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {"text": "hey clubs in GLA", "intent": "clubdetails", "entities": []},
+      {
+        "text": "hello can i get the details of clubs in Gla University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {"text": "hello clubs in gla", "intent": "clubdetails", "entities": []},
+      {
+        "text": "hi can i get the details of clubs in GLA",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey tell me that is there any clubs in university",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hi tell me that is there any clubs in GLA University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hello can i get the details of clubs in GLA",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "what are the clubs in Gla University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hi clubs in the college",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "can i get the details of clubs in gla",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey what are the clubs in GLA University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey tell me that is there any clubs in GLA",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hi can i get the details of clubs in the college",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hello what are the clubs in GLA",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hi tell me that is there any clubs in university",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hello what are the clubs in Gla University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey clubs in university",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "tell me that is there any clubs in GLA",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hello clubs in the college",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "can i get the details of clubs in GLA University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey what are the clubs in gla",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey clubs in the college",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hello can i get the details of clubs in GLA University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "what are the clubs in university",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hello clubs in GLA University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey tell me that is there any clubs in Gla University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "clubs in Gla University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hello can i get the details of clubs in the college",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey tell me that is there any clubs in gla",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "what are the clubs in GLA University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hello clubs in university",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hi what are the clubs in the college",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "can i get the details of clubs in Gla University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {"text": "clubs in gla", "intent": "clubdetails", "entities": []},
+      {
+        "text": "clubs in GLA University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "what are the clubs in GLA",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey can i get the details of clubs in gla",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hi tell me that is there any clubs in gla",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {"text": "clubs in university", "intent": "clubdetails", "entities": []},
+      {
+        "text": "hey what are the clubs in Gla University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {"text": "hi clubs in gla", "intent": "clubdetails", "entities": []},
+      {
+        "text": "can i get the details of clubs in university",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hi clubs in Gla University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hi clubs in university",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hello can i get the details of clubs in gla",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey what are the clubs in GLA",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hi tell me that is there any clubs in the college",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hi what are the clubs in GLA",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "tell me that is there any clubs in GLA University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hello clubs in Gla University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "can i get the details of clubs in GLA",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey can i get the details of clubs in the college",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey tell me that is there any clubs in the college",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hi what are the clubs in university",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hi what are the clubs in Gla University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "tell me that is there any clubs in university",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hello tell me that is there any clubs in the college",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hello tell me that is there any clubs in GLA",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey can i get the details of clubs in Gla University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey what are the clubs in the college",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey can i get the details of clubs in university",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {"text": "clubs in GLA", "intent": "clubdetails", "entities": []},
+      {
+        "text": "hello tell me that is there any clubs in GLA University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hello tell me that is there any clubs in Gla University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hello what are the clubs in the college",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hey can i get the details of clubs in GLA",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hi clubs in GLA University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hi tell me that is there any clubs in Gla University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hi what are the clubs in GLA University",
+        "intent": "clubdetails",
+        "entities": []
+      },
+      {
+        "text": "hello what are the clubs in GLA University",
+        "intent": "clubdetails",
+        "entities": []
+      }
+    ]
+  }
+}
