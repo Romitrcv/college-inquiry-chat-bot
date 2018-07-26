@@ -1,0 +1,760 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [],
+    "entity_synonyms": [],
+    "common_examples": [
+      {
+        "text": "tell the full form of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello find meaning of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi meaning of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey what is full form of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey what is meaning of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "find full form of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello meaning of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi tell the full form of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello what is meaning of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "tell the full form of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {"text": "hey meaning of gla", "intent": "GLAStandsfor", "entities": []},
+      {
+        "text": "hi find full form of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "meaning of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello find full form of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi tell the meaning of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey what is full form of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey full form of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "tell the meaning of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello find full form of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi what is meaning of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi what is full form of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello meaning of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "tell the full form of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey find meaning of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello tell the full form of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey find meaning of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "what is full form of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi meaning of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi tell the full form of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {"text": "find meaning of GLA", "intent": "GLAStandsfor", "entities": []},
+      {
+        "text": "hey full form of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello what is meaning of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi full form of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey what is meaning of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "tell the meaning of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello find full form of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi full form of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey tell the full form of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "what is meaning of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey full form of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello what is meaning of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "tell the meaning of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi find full form of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello tell the meaning of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi what is full form of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "find meaning of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello what is full form of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi tell the meaning of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {"text": "meaning of gla", "intent": "GLAStandsfor", "entities": []},
+      {
+        "text": "hey find full form of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "full form of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey find full form of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey find full form of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "full form of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey find meaning of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello full form of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "tell the meaning of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi what is full form of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "what is meaning of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey tell the full form of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey find meaning of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello tell the full form of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "meaning of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello what is full form of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {"text": "find meaning of gla", "intent": "GLAStandsfor", "entities": []},
+      {"text": "hi meaning of GLA", "intent": "GLAStandsfor", "entities": []},
+      {
+        "text": "hey tell the full form of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "what is full form of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey tell the meaning of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {"text": "hi meaning of gla", "intent": "GLAStandsfor", "entities": []},
+      {
+        "text": "hello find full form of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey meaning of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi what is full form of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello tell the full form of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello full form of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi tell the full form of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey what is meaning of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "find full form of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello meaning of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "find full form of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello what is full form of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey meaning of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {"text": "hi full form of GLA", "intent": "GLAStandsfor", "entities": []},
+      {
+        "text": "hello tell the meaning of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "find full form of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "what is meaning of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello find meaning of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {"text": "hi full form of gla", "intent": "GLAStandsfor", "entities": []},
+      {
+        "text": "hi what is meaning of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "find meaning of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello full form of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi full form of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello what is meaning of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "find meaning of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "tell the full form of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey what is full form of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey meaning of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello what is full form of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi find meaning of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "what is meaning of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey tell the full form of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello full form of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi find meaning of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi what is full form of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello meaning of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey find full form of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi what is meaning of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello full form of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello tell the meaning of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi find meaning of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello tell the full form of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey what is meaning of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello tell the meaning of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi tell the meaning of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "tell the meaning of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "meaning of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi find full form of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey find meaning of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi tell the full form of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "what is meaning of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi find meaning of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "full form of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello what is full form of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "what is full form of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi tell the meaning of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi what is meaning of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi meaning of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi find full form of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello tell the full form of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey tell the meaning of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {"text": "full form of GLA", "intent": "GLAStandsfor", "entities": []},
+      {
+        "text": "hello find meaning of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello find meaning of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi tell the full form of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi find full form of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi tell the meaning of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey full form of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey tell the full form of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi what is meaning of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey find full form of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey what is meaning of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "what is full form of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey tell the meaning of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "tell the full form of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {"text": "full form of gla", "intent": "GLAStandsfor", "entities": []},
+      {"text": "hey meaning of GLA", "intent": "GLAStandsfor", "entities": []},
+      {
+        "text": "hello what is meaning of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey what is full form of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey full form of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "find full form of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey what is full form of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hi find meaning of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey tell the meaning of gla",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello meaning of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hey tell the meaning of GLA",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello find meaning of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello tell the meaning of gla university",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {"text": "meaning of GLA", "intent": "GLAStandsfor", "entities": []},
+      {
+        "text": "what is full form of Gla University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      },
+      {
+        "text": "hello find full form of GLA University",
+        "intent": "GLAStandsfor",
+        "entities": []
+      }
+    ]
+  }
+}
