@@ -1,0 +1,488 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [],
+    "entity_synonyms": [],
+    "common_examples": [
+      {
+        "text": "hello syllabus of gla university enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi can i get the syllabus of gla enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "tell me the syllabus of enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey what is syllabus of Gla University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello tell me the syllabus of GLA enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "what is syllabus of GLA University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey can i get the syllabus of gla enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi syllabus of enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "can i get the syllabus of GLA University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi what is syllabus of gla university enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey syllabus of Gla University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello tell me the syllabus of enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "what is syllabus of gla enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi syllabus of GLA enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey can i get the syllabus of GLA University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi can i get the syllabus of Gla University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey tell me the syllabus of Gla University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "what is syllabus of gla university enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi what is syllabus of enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey tell me the syllabus of GLA enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello syllabus of GLA University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "can i get the syllabus of gla enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi tell me the syllabus of gla university enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "syllabus of GLA enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey can i get the syllabus of enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello what is syllabus of GLA University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "can i get the syllabus of Gla University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey what is syllabus of gla enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi tell me the syllabus of GLA University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello syllabus of gla enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi syllabus of gla university enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey what is syllabus of GLA enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi what is syllabus of GLA enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello can i get the syllabus of gla enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "syllabus of enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "can i get the syllabus of enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi what is syllabus of gla enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey tell me the syllabus of gla university enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "syllabus of GLA University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello can i get the syllabus of GLA enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi what is syllabus of GLA University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "tell me the syllabus of gla enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey syllabus of gla university enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "tell me the syllabus of Gla University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello syllabus of GLA enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi syllabus of gla enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello what is syllabus of gla university enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "syllabus of Gla University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello can i get the syllabus of gla university enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi tell me the syllabus of GLA enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey syllabus of enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello what is syllabus of gla enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey can i get the syllabus of gla university enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "what is syllabus of GLA enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello tell me the syllabus of GLA University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi syllabus of Gla University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey what is syllabus of gla university enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello tell me the syllabus of Gla University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi can i get the syllabus of enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello tell me the syllabus of gla enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello what is syllabus of enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey syllabus of gla enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi what is syllabus of Gla University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello can i get the syllabus of enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "tell me the syllabus of GLA University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello can i get the syllabus of Gla University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi tell me the syllabus of gla enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey syllabus of GLA enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello can i get the syllabus of GLA University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello syllabus of Gla University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "can i get the syllabus of gla university enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi tell me the syllabus of enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey what is syllabus of GLA University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "syllabus of gla enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi can i get the syllabus of GLA enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello syllabus of enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey tell me the syllabus of gla enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "what is syllabus of enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi syllabus of GLA University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey can i get the syllabus of GLA enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "syllabus of gla university enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "can i get the syllabus of GLA enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello what is syllabus of GLA enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey syllabus of GLA University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi tell me the syllabus of Gla University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey what is syllabus of enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "what is syllabus of Gla University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "tell me the syllabus of gla university enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello what is syllabus of Gla University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "tell me the syllabus of GLA enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi can i get the syllabus of GLA University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hello tell me the syllabus of gla university enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey can i get the syllabus of Gla University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey tell me the syllabus of GLA University enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hey tell me the syllabus of enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      },
+      {
+        "text": "hi can i get the syllabus of gla university enterence test",
+        "intent": "syllabusenterencetest",
+        "entities": []
+      }
+    ]
+  }
+}
