@@ -1,5 +1,4 @@
 from googleapiclient.discovery import build
-#pip install google-api-python-client
 my_api_key = "AIzaSyA0eQqo5wF6_i8oVwSg-rbZHBe8uNNHDT8"
 my_cse_id = "016248527696431796891:g3u5ie8wme4"
 
