@@ -1,0 +1,106 @@
+action_factory: null
+action_names:
+- utter_greet
+- utter_goodbye
+- utter_default
+- utter_ack_dosearch
+- utter_ack_find_office_alternatives
+- utter_ask_howcanhelp
+- utter_ask_name
+- utter_ask_City
+- utter_ask_States
+- utter_welcome_gla
+- utter_yourwelcome
+- utter_anything_else
+- utter_ask_degree
+- action_search_faculty
+- action_search_state
+- action_add_name
+- action_add_degree
+actions:
+- utter_greet
+- utter_goodbye
+- utter_default
+- utter_ack_dosearch
+- utter_ack_find_office_alternatives
+- utter_ask_howcanhelp
+- utter_ask_name
+- utter_ask_City
+- utter_ask_States
+- utter_welcome_gla
+- utter_yourwelcome
+- utter_anything_else
+- utter_ask_degree
+- actions.ActionSearchFaculty
+- actions.ActionSearchState
+- actions.ActionAddName
+- actions.ActionAddDegree
+config:
+  store_entities_as_slots: true
+entities:
+- States
+- faculty_name
+- student_name
+- degree
+intents:
+- greet
+- affirm
+- findofficeByStates
+- findFacultyByName
+- request_info
+- goodbye
+- inform
+- thankyou
+slots:
+  States:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  degree:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  faculty_name:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  student_name:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+templates:
+  utter_ack_dosearch:
+  - text: ok let me see whom I can find
+  utter_ack_find_office_alternatives:
+  - text: ok let me see where else our office is
+  utter_anything_else:
+  - text: anything else
+  - text: do you want me to do anything else
+  - text: you can ask me any doubts
+  - text: I can help you with
+  utter_ask_City:
+  - text: where do you live state?
+  - text: in which state do you belong?
+  - text: ur State?
+  utter_ask_States:
+  - text: which state?
+  - text: from which state?
+  - text: state?
+  utter_ask_degree:
+  - text: What course are you interested in
+  - text: which department are you looking for
+  - text: Do you want to do B.tech or something else
+  utter_ask_howcanhelp:
+  - text: how can I help you?
+  utter_ask_name:
+  - text: what is your name?
+  utter_default:
+  - text: i can not get you please specify
+  utter_goodbye:
+  - text: goodbye :(
+  - text: Bye-bye
+  utter_greet:
+  - text: hey there!
+  utter_welcome_gla:
+  - text: welcome to gla university!!
+  utter_yourwelcome:
+  - text: mention not
+  - text: pleasure is ours
+  - text: your welcome
+topics: []

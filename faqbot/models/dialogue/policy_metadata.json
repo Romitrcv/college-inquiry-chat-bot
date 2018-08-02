@@ -1,0 +1,57 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": [
+        "degree",
+        "student_name",
+        "States",
+        "faculty_name"
+      ]
+    },
+    "utter_welcome_gla": {
+      "slots": []
+    },
+    "action_search_state": {
+      "slots": [
+        "States"
+      ]
+    },
+    "action_search_faculty": {
+      "slots": [
+        "faculty_name"
+      ]
+    },
+    "utter_goodbye": {
+      "slots": []
+    },
+    "utter_ask_name": {
+      "slots": []
+    },
+    "action_add_degree": {
+      "slots": [
+        "student_name"
+      ]
+    },
+    "action_add_name": {
+      "slots": [
+        "student_name"
+      ]
+    },
+    "utter_ask_howcanhelp": {
+      "slots": []
+    },
+    "utter_ask_States": {
+      "slots": []
+    }
+  },
+  "rasa_core": "0.9.8",
+  "max_histories": [
+    2,
+    5
+  ],
+  "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa_core.policies.memoization.MemoizationPolicy",
+    "rasa_core.policies.keras_policy.KerasPolicy"
+  ]
+}

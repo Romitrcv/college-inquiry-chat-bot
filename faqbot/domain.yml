@@ -1,0 +1,91 @@
+slots:
+  student_name:
+    type: text
+  degree:
+    type: text
+  faculty_name:
+    type: text
+  States:
+    type: text
+
+entities:
+- States
+- faculty_name
+- student_name
+- degree
+ 
+
+
+intents:
+ - greet
+ - affirm
+ - findofficeByStates
+ - findFacultyByName
+ - request_info
+ - goodbye
+ - inform
+ - thankyou
+
+
+
+templates:
+  utter_greet:
+    - "hey there!"
+  utter_goodbye:
+    - "goodbye :("
+    - "Bye-bye"
+  utter_default:
+    - "i can not get you please specify"
+  utter_ack_dosearch: 
+    - "ok let me see whom I can find"
+  utter_ack_find_office_alternatives:
+    - "ok let me see where else our office is"
+  utter_ask_name: 
+    - "what is your name?"
+  utter_ask_howcanhelp:
+    - "how can I help you?"
+  utter_ask_City:
+    - "where do you live state?"
+    - "in which state do you belong?"
+    - "ur State?"
+  utter_yourwelcome:
+    - "mention not"
+    - "pleasure is ours"
+    - "your welcome"
+  utter_ask_States: 
+    - "which state?"
+    - "from which state?"
+    - "state?" 
+  utter_welcome_gla: 
+    - "welcome to gla university!!"
+
+  utter_anything_else:
+    - "anything else"
+    - "do you want me to do anything else"
+    - "you can ask me any doubts"
+    - "I can help you with"
+
+  utter_ask_degree: 
+    - "What course are you interested in"
+    - "which department are you looking for"
+    - "Do you want to do B.tech or something else"  
+
+
+actions:
+    - utter_greet
+    - utter_goodbye
+    - utter_default
+    - utter_ack_dosearch
+    - utter_ack_find_office_alternatives
+    - utter_ask_howcanhelp
+    - utter_ask_name
+    - utter_ask_City
+    - utter_ask_States
+    - utter_welcome_gla
+    - utter_yourwelcome
+    - utter_anything_else
+    - utter_ask_degree
+    - actions.ActionSearchFaculty
+    - actions.ActionSearchState
+    - actions.ActionAddName
+    - actions.ActionAddDegree
