@@ -1,6 +1,6 @@
 from googleapiclient.discovery import build
-my_api_key = "vvhhggfgdfgdfgchvhjbjj-khjkhfhg"
-my_cse_id = "446567767868868776564535437"
+my_api_key = "vvhhggfgdfgdfgchvhjbjj-khjkhfhg"  #CREATE YOUR OWN
+my_cse_id = "446567767868868776564535437" #CREATE YOUR OWN
 
 def google_search(search_term, api_key, cse_id, **kwargs):
     service = build("customsearch", "v1", developerKey=api_key)
