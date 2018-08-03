@@ -1,0 +1,114 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": [
+        "student_name",
+        "States",
+        "degree",
+        "faculty_name"
+      ]
+    },
+    "utter_ask_name": {
+      "slots": []
+    },
+    "action_search_state": {
+      "slots": [
+        "States"
+      ]
+    },
+    "utter_ccourse": {
+      "slots": []
+    },
+    "utter_scholarship": {
+      "slots": []
+    },
+    "utter_GLAStandsfor": {
+      "slots": []
+    },
+    "utter_welcome_gla": {
+      "slots": []
+    },
+    "action_add_name": {
+      "slots": [
+        "student_name"
+      ]
+    },
+    "utter_approved": {
+      "slots": []
+    },
+    "utter_courses_available": {
+      "slots": []
+    },
+    "utter_syllabusenterencetest": {
+      "slots": []
+    },
+    "utter_placelastyear": {
+      "slots": []
+    },
+    "utter_visittogla": {
+      "slots": []
+    },
+    "action_search_faculty": {
+      "slots": [
+        "faculty_name"
+      ]
+    },
+    "action_add_degree": {
+      "slots": [
+        "degree"
+      ]
+    },
+    "utter_goodbye": {
+      "slots": []
+    },
+    "utter_summerproject": {
+      "slots": []
+    },
+    "utter_placementassurity": {
+      "slots": []
+    },
+    "utter_admission": {
+      "slots": []
+    },
+    "utter_hostelcharges": {
+      "slots": []
+    },
+    "utter_gym": {
+      "slots": []
+    },
+    "utter_ask_howcanhelp": {
+      "slots": []
+    },
+    "utter_ask_States": {
+      "slots": []
+    },
+    "utter_clubdetails": {
+      "slots": []
+    },
+    "utter_girlhostel": {
+      "slots": []
+    },
+    "utter_exampaper": {
+      "slots": []
+    },
+    "utter_relaxfees": {
+      "slots": []
+    },
+    "utter_highpackage": {
+      "slots": []
+    },
+    "utter_enterance": {
+      "slots": []
+    }
+  },
+  "rasa_core": "0.9.8",
+  "max_histories": [
+    2,
+    5
+  ],
+  "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa_core.policies.memoization.MemoizationPolicy",
+    "rasa_core.policies.keras_policy.KerasPolicy"
+  ]
+}

@@ -1,0 +1,201 @@
+slots:
+  student_name:
+    type: text
+  degree:
+    type: text
+  faculty_name:
+    type: text
+  States:
+    type: text
+
+entities:
+- States
+- faculty_name
+- student_name
+- degree
+
+
+
+
+intents:
+ - greet
+ - affirm
+ - findofficeByStates
+ - findFacultyByName
+ - request_info
+ - goodbye
+ - inform
+ - thankyou
+ - GLAStandsfor
+ - admission
+ - clubdetails
+ - courses_available
+ - enterance
+ - girlhostel
+ - gym
+ - highpackage
+ - hostelcharges
+ - laundry
+ - placelastyear
+ - placementassurity
+ - prominentcompanies
+ - syllabusenterencetest
+ - approved
+ - summerproject
+ - relaxfees
+ - scholarship
+ - visittogla
+ - cutoff
+ - exampaper
+ - ccourse
+ - default
+
+
+templates:
+  utter_greet:
+    - "hey there!"
+  utter_goodbye:
+    - "goodbye :("
+    - "Bye-bye"
+  utter_default:
+    - "i can not get you please specify"
+  utter_ack_dosearch: 
+    - "ok let me see whom I can find"
+  utter_ack_find_office_alternatives:
+    - "ok let me see where else our office is"  
+  utter_ask_name: 
+    - "what is your name?"
+  utter_ask_howcanhelp:
+    - "how can I help you?"
+  utter_clubdetails:
+    -"There are many clubs operating in the University.Such as Droid,Aeromodelling ,Speed,literio club,fine arts club etc. You can read in detail from http://gla.ac.in/campus-life/clubs"
+  utter_ask_City:
+    - "where do you live state?"
+    - "in which state do you belong?"
+    - "ur State?"
+  utter_courses_available:
+    - "B Tech (Lateral Entry) B Tech (Lateral Entry) - Computer Science & Engineering B Tech (Lateral Entry) - Civil B.Tech CSE - Specialization in Cyber Security and Forensics in academic collaboration with IBM .Tech CSE - Specialization in Data Analytics in academic collaboration with IBM .Tech CSE - Specialization in Cloud Computing & Virtualization in academic collaboration with IBM B.Tech CSE - Specialization in Internet of Things (IOT) in academic collaboration with IBM Diploma in Engineering Advance Diploma Course in Tools & Die Making (One Year Program) Advance Diploma Course in Advance CNC and CAD / CAM (One Year Program) Certificate Course in CAD/CAM & CNC  Certificate Course in Computer Hardware and Networking (One Year Program) MBA MBA - Logistics and Supply Chain Management MBA - Financial Markets & Banking BBA .BBA(Family Business) BBA(Hons.),  B Com (Hons.)    B Com. (Hons.) Global Accounting in association with CIMA D Pharm B Pharm B Pharm (Lateral Entry) M. Pharm  CA MCA (Lateral Entry) MCA .(Hons.) Economics B Sc (Hons.) M.Sc. - Chemistry M.Sc. - Bio-Technology  M.A.- English B. Sc.(Hons.) - Chemistry B Ed. M Tech  B.A.L.L.B  B.Com L.L.B M. Sc. - Physics Ph.D. (Full / Part Time)  Ph.D. (Full Time)"
+  utter_yourwelcome:
+    - "mention not"
+    - "pleasure is ours"
+    - "your welcome"
+  utter_ask_States: 
+    - "which state?"
+    - "from which state?"
+    - "state?" 
+  utter_welcome_gla: 
+    - "welcome to gla university!!"
+
+  utter_anything_else:
+    - "anything else"
+    - "do you want me to do anything else"
+    - "you can ask me any doubts"
+    - "I can help you with"
+
+  utter_ask_degree: 
+    - "What course are you interested in"
+    - "which department are you looking for"
+    - "Do you want to do B.tech or something else"
+  
+  utter_GLAStandsfor:
+    - "Initials of Late Shri Ganeshi Lal Agrawal Ji. Founder of GLA"  
+
+  utter_admission:
+    - "(i) First you need to get yourself registered for the online entrance test of GLA University i.e. GLAET. (ii) Then you need to appear in the test at the APTECH Attest centers. Verify with the office the availability of the attest center in your city. Alternatively, the exam could be conducted in the office of GLA. You would be given your  result (qualified or not) soon after completing the exam.(iii) After qualifying the test one can deposit the fees at GLA University, Mathura or at city office in    form of DD/Cheque/Cash. The Demand draft can be issue from any nationalized bank in the favour of “GLA University, Mathura payable at Vrindavan."
+
+
+  utter_enterance :
+    - "It is mandatory to have at least 60% in PCM to appear for B Tech admission test even if you have more than 60% overall. You can apply under the sponsored category.Please visit gla.ac.in/study-with-us/eligibility-criteria.To get eligibility criteria of all the courses."
+    
+  utter_girlhostel:
+    - "There is enough distance which separates the hostels of girls from boys."
+
+  utter_gym:
+    - "There is gym in each hostels with sufficient amount of equipments"
+
+  utter_hostelcharges:
+    - "The fee for hostel is 42,000 for single sharing, 40,000 for twin sharing and 38,000 for triple sharing. Yes the mess runs on no-profit-no-loss basis. The current mess charge is 22,000. At the end of the academic year, whatever balance amount remains in the mess account is credited in the next year mess account"
+
+  utter_highpackage:
+    - "It can be said around 3.0-3.5 lacs per annum as it varies from branch to branch. The highest package offered was 22 lpa by a Japanese gaming company Opus Studio which recruited for its Tokyo HQ."
+
+  utter_laundry:
+    - "yes there is a provision of laundry in every hostel"
+
+  utter_placelastyear:
+    - "The university has been able to place more than 70% students consistently since the past five years. This year too the placements have been in the range of 70%-80%."
+
+  utter_placementassurity:
+    - "Yes we do provide assistance in finding the suitable placements for the students. However, there is no guarantee as such of getting a student placed. In fact, not even the best institutes give a guarantee of placement."
+
+  utter_prominentcompanies:
+    - "Here is the list of prominient comapanies that visit gla are Wipro, Infosys, Mahindra, TCS, CTS, Samsung, iGate, L & T, Airtel, Indiabulls, Vodafone, Eli Lilly, Nokia, NDPL, Oracle, HDFC Bank, Amazon,Agreeya, Country Club, Pfizer, Shriram Pistons and Rings, Bluestar, Ispat Industries Ltd., SRF, HCL, Axis Bank, IBM, Bhushan Power and Steel, Schneider, Punj Lloyd, Emerson, DELL Perot Systems, Polaris, Ranbaxy, Sapient, Daikin, Escorts, Accenture, ZTE, hp, Lurgi, ICICI Prudential, Kongsberg, JK Tyres, ITC, Polaris"
+
+  utter_syllabusenterencetest:
+    - "There is no syllabus as such. You need to prepare the subjects of the class you last passed/appeared"
+
+  utter_approved:
+    - "The GLA University, Mathura has been established vide Act no. 21 of 2010 of the Government of Uttar Pradesh. This has been published in its Official Gazette dated September 01, 2010. A letter (dated September 16, 2010) of authorization from the Government of Uttar Pradesh has also been issued in this regard Subsequently, University Grants Commission also issued a notification dated November 16, 2010 in this regard. Thus, the GLA University came into existence and started its operations effective from September 18, 2010. As per the directives of the Supreme Court, a private university need not be approved by AICTE. A UGC panel visits the university and gives its recommendations, which also has members from AICTE as AICTE is a part of UGC. The same for GLA University could be found on the website of UGC. Also, the university is a member of Association of Indian Universities.The URLs are 1) http://www.aicte-india.org/statisticuniversities.htm 2) http://www.ugc.ac.in/privateuniversitylist.aspx?id=33&Unitype=3. The official letters of authorization from U.P. Government, UGC, Non-requirement to be approved by AICTE and Member-A.I.U. could be found on http://gla.ac.in/glau/glad.asp?pid=1&mid=7&sspid=7&sschild=show&child=show"
+    
+  utter_summerproject:
+    - "Yes, the university has a full-fledged training and placement dept. which works round-the-year to ensure campus placement, off-campus placement, guest lectures, industrial visits as well as summer training projects for students."
+    
+  utter_relaxfees:
+    - "No. Being faculty members, we are not entitled to waive off any part of the fees."
+    
+  utter_scholarship:
+    - "Yes but it is only applicable for those who are having the domicile status of U.P. For the other state students we could provide all the relevant documents which would help them in getting the scholarship from their state."
+
+  utter_visittogla:
+    - "We don’t have any such provision but we would definitely assist you once you are at the university"
+
+  utter_cutoff:
+    - " Subject-wise cut-off should be referred to GLA website"
+
+  utter_exampaper:
+    - "No we dont provide any previous year exam paper"
+
+  utter_ccourse:
+    - "No we do not provide any correspondence course."
+
+
+actions:
+    - utter_greet
+    - utter_goodbye
+    - utter_default
+    - utter_ack_dosearch
+    - utter_ack_find_office_alternatives
+    - utter_ask_howcanhelp
+    - utter_ask_name
+    - utter_ask_City
+    - utter_ask_States
+    - utter_welcome_gla
+    - utter_yourwelcome
+    - utter_anything_else
+    - utter_ask_degree
+    - utter_GLAStandsfor
+    - utter_admission
+    - utter_hostelcharges
+    - utter_cutoff
+    - utter_clubdetails
+    - utter_highpackage
+    - utter_laundry
+    - utter_placelastyear
+    - utter_placementassurity
+    - utter_approved
+    - utter_summerproject
+    - utter_syllabusenterencetest
+    - utter_gym
+    - utter_prominentcompanies
+    - utter_relaxfees
+    - utter_scholarship
+    - utter_visittogla
+    - utter_exampaper
+    - utter_girlhostel
+    - utter_ccourse
+    - utter_enterance
+    - utter_courses_available
+    - actions.ActionSearchFaculty
+    - actions.ActionSearchState
+    - actions.ActionAddName
+    - actions.ActionAddDegree
