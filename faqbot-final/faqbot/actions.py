@@ -32,6 +32,9 @@ class ActionSearchFaculty(Action):
             if c is not None:
                 l.append(c)
         if f==0:
+            #description=glasearch(name)
+            #we are not calling glasearch() function because we cannot make our key public
+            
             dispatcher.utter_message("sorry no data found")
             return[SlotSet("faculty_name",None)]
         db.close()
