@@ -7,10 +7,10 @@ The other folder is models which contains nlu model named nlu which is generated
 
 First run train-nlu.py to train nlu model using training_data.json
 Then run train.py to generate dialogue using stories.md
-the you can use train-online.py to generate stories.
+then you can use train-online.py to generate stories.
 then again train it by using train.py
 At last run the bot using run.py
 
-Thanking YOU!!
+Thank YOU!!
 
 
